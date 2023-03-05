@@ -1,0 +1,24 @@
+[2023-01-27 16:02:21,250] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: data_ingestion_local_gcs_GroupID06.create_temp_table manual__2023-01-27T16:02:12.125710+00:00 [queued]>
+[2023-01-27 16:02:21,261] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: data_ingestion_local_gcs_GroupID06.create_temp_table manual__2023-01-27T16:02:12.125710+00:00 [queued]>
+[2023-01-27 16:02:21,262] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2023-01-27 16:02:21,262] {taskinstance.py:1239} INFO - Starting attempt 1 of 1
+[2023-01-27 16:02:21,263] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2023-01-27 16:02:21,273] {taskinstance.py:1259} INFO - Executing <Task(BigQueryCreateEmptyTableOperator): create_temp_table> on 2023-01-27 16:02:12.125710+00:00
+[2023-01-27 16:02:21,282] {standard_task_runner.py:52} INFO - Started process 477 to run task
+[2023-01-27 16:02:21,287] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'data_ingestion_local_gcs_GroupID06', 'create_temp_table', 'manual__2023-01-27T16:02:12.125710+00:00', '--job-id', '3', '--raw', '--subdir', 'DAGS_FOLDER/data_ingestion_local_gcs_GroupID06.py', '--cfg-path', '/tmp/tmpy6e54t_s', '--error-file', '/tmp/tmpeqzb_ble']
+[2023-01-27 16:02:21,289] {standard_task_runner.py:77} INFO - Job 3: Subtask create_temp_table
+[2023-01-27 16:02:21,350] {logging_mixin.py:109} INFO - Running <TaskInstance: data_ingestion_local_gcs_GroupID06.create_temp_table manual__2023-01-27T16:02:12.125710+00:00 [running]> on host fdab5790e71d
+[2023-01-27 16:02:21,403] {taskinstance.py:1426} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=data_ingestion_local_gcs_GroupID06
+AIRFLOW_CTX_TASK_ID=create_temp_table
+AIRFLOW_CTX_EXECUTION_DATE=2023-01-27T16:02:12.125710+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-01-27T16:02:12.125710+00:00
+[2023-01-27 16:02:21,405] {crypto.py:82} WARNING - empty cryptography key - values will not be stored encrypted.
+[2023-01-27 16:02:21,406] {bigquery.py:956} INFO - Creating table
+[2023-01-27 16:02:23,135] {bigquery.py:972} INFO - Table avid-reference-366313.amazon_data.amazon_tbl_temp created successfully
+[2023-01-27 16:02:23,147] {taskinstance.py:1277} INFO - Marking task as SUCCESS. dag_id=data_ingestion_local_gcs_GroupID06, task_id=create_temp_table, execution_date=20230127T160212, start_date=20230127T160221, end_date=20230127T160223
+[2023-01-27 16:02:23,188] {local_task_job.py:154} INFO - Task exited with return code 0
+[2023-01-27 16:02:23,220] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,1130 @@
+[2023-01-24 20:41:36,209] {processor.py:163} INFO - Started process (PID=171) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:41:36,212] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:41:36,214] {logging_mixin.py:109} INFO - [2023-01-24 20:41:36,213] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:41:37,716] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:41:42,314] {logging_mixin.py:109} INFO - [2023-01-24 20:41:42,314] {manager.py:496} INFO - Created Permission View: can edit on DAG:complex_music
+[2023-01-24 20:41:42,321] {logging_mixin.py:109} INFO - [2023-01-24 20:41:42,320] {manager.py:496} INFO - Created Permission View: can read on DAG:complex_music
+[2023-01-24 20:41:42,321] {logging_mixin.py:109} INFO - [2023-01-24 20:41:42,321] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:41:42,327] {logging_mixin.py:109} INFO - [2023-01-24 20:41:42,327] {dag.py:2415} INFO - Creating ORM DAG for complex_music
+[2023-01-24 20:41:42,334] {logging_mixin.py:109} INFO - [2023-01-24 20:41:42,334] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:41:42.334182+00:00
+[2023-01-24 20:41:42,342] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 6.137 seconds
+[2023-01-24 20:42:12,539] {processor.py:163} INFO - Started process (PID=248) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:42:12,541] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:42:12,544] {logging_mixin.py:109} INFO - [2023-01-24 20:42:12,544] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:42:13,115] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:42:13,128] {logging_mixin.py:109} INFO - [2023-01-24 20:42:13,127] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:42:13,142] {logging_mixin.py:109} INFO - [2023-01-24 20:42:13,142] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:42:13.142538+00:00
+[2023-01-24 20:42:13,152] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.619 seconds
+[2023-01-24 20:42:43,368] {processor.py:163} INFO - Started process (PID=334) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:42:43,371] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:42:43,373] {logging_mixin.py:109} INFO - [2023-01-24 20:42:43,372] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:42:43,904] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:42:43,914] {logging_mixin.py:109} INFO - [2023-01-24 20:42:43,914] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:42:43,928] {logging_mixin.py:109} INFO - [2023-01-24 20:42:43,928] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:42:43.928340+00:00
+[2023-01-24 20:42:43,936] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.573 seconds
+[2023-01-24 20:43:14,126] {processor.py:163} INFO - Started process (PID=411) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:43:14,132] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:43:14,134] {logging_mixin.py:109} INFO - [2023-01-24 20:43:14,134] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:43:15,743] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:43:15,754] {logging_mixin.py:109} INFO - [2023-01-24 20:43:15,754] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:43:15,768] {logging_mixin.py:109} INFO - [2023-01-24 20:43:15,768] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:43:15.768062+00:00
+[2023-01-24 20:43:15,777] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.661 seconds
+[2023-01-24 20:43:45,949] {processor.py:163} INFO - Started process (PID=497) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:43:45,951] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:43:45,952] {logging_mixin.py:109} INFO - [2023-01-24 20:43:45,952] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:43:46,504] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:43:46,521] {logging_mixin.py:109} INFO - [2023-01-24 20:43:46,520] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:43:46,537] {logging_mixin.py:109} INFO - [2023-01-24 20:43:46,537] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:43:46.537632+00:00
+[2023-01-24 20:43:46,548] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.602 seconds
+[2023-01-24 20:44:16,598] {processor.py:163} INFO - Started process (PID=574) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:44:16,601] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:44:16,602] {logging_mixin.py:109} INFO - [2023-01-24 20:44:16,602] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:44:17,212] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:44:17,221] {logging_mixin.py:109} INFO - [2023-01-24 20:44:17,221] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:44:17,236] {logging_mixin.py:109} INFO - [2023-01-24 20:44:17,236] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:44:17.235693+00:00
+[2023-01-24 20:44:17,246] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.652 seconds
+[2023-01-24 20:44:47,369] {processor.py:163} INFO - Started process (PID=660) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:44:47,371] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:44:47,372] {logging_mixin.py:109} INFO - [2023-01-24 20:44:47,372] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:44:47,947] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:44:47,958] {logging_mixin.py:109} INFO - [2023-01-24 20:44:47,957] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:44:47,974] {logging_mixin.py:109} INFO - [2023-01-24 20:44:47,973] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:44:47.973618+00:00
+[2023-01-24 20:44:47,986] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.622 seconds
+[2023-01-24 20:45:18,266] {processor.py:163} INFO - Started process (PID=737) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:45:18,268] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:45:18,269] {logging_mixin.py:109} INFO - [2023-01-24 20:45:18,269] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:45:18,810] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:45:18,830] {logging_mixin.py:109} INFO - [2023-01-24 20:45:18,828] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:45:18,851] {logging_mixin.py:109} INFO - [2023-01-24 20:45:18,851] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:45:18.850716+00:00
+[2023-01-24 20:45:18,872] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.609 seconds
+[2023-01-24 20:45:49,044] {processor.py:163} INFO - Started process (PID=814) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:45:49,051] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:45:49,053] {logging_mixin.py:109} INFO - [2023-01-24 20:45:49,053] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:45:50,486] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:45:50,498] {logging_mixin.py:109} INFO - [2023-01-24 20:45:50,498] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:45:50,514] {logging_mixin.py:109} INFO - [2023-01-24 20:45:50,514] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:45:50.513814+00:00
+[2023-01-24 20:45:50,522] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.488 seconds
+[2023-01-24 20:46:20,688] {processor.py:163} INFO - Started process (PID=900) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:46:20,691] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:46:20,692] {logging_mixin.py:109} INFO - [2023-01-24 20:46:20,692] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:46:21,247] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:46:21,259] {logging_mixin.py:109} INFO - [2023-01-24 20:46:21,258] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:46:21,280] {logging_mixin.py:109} INFO - [2023-01-24 20:46:21,280] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:46:21.280074+00:00
+[2023-01-24 20:46:21,291] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.609 seconds
+[2023-01-24 20:46:51,611] {processor.py:163} INFO - Started process (PID=978) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:46:51,614] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:46:51,615] {logging_mixin.py:109} INFO - [2023-01-24 20:46:51,615] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:46:52,168] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:46:52,180] {logging_mixin.py:109} INFO - [2023-01-24 20:46:52,180] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:46:52,197] {logging_mixin.py:109} INFO - [2023-01-24 20:46:52,197] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:46:52.197125+00:00
+[2023-01-24 20:46:52,208] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.602 seconds
+[2023-01-24 20:47:22,447] {processor.py:163} INFO - Started process (PID=1055) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:47:22,450] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:47:22,452] {logging_mixin.py:109} INFO - [2023-01-24 20:47:22,452] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:47:22,980] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:47:22,990] {logging_mixin.py:109} INFO - [2023-01-24 20:47:22,989] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:47:23,002] {logging_mixin.py:109} INFO - [2023-01-24 20:47:23,002] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:47:23.002339+00:00
+[2023-01-24 20:47:23,010] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.567 seconds
+[2023-01-24 20:47:53,490] {processor.py:163} INFO - Started process (PID=1121) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:47:53,493] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:47:53,494] {logging_mixin.py:109} INFO - [2023-01-24 20:47:53,494] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:47:54,017] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:47:54,039] {logging_mixin.py:109} INFO - [2023-01-24 20:47:54,038] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:47:54,060] {logging_mixin.py:109} INFO - [2023-01-24 20:47:54,060] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:47:54.060258+00:00
+[2023-01-24 20:47:54,072] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.586 seconds
+[2023-01-24 20:48:24,683] {processor.py:163} INFO - Started process (PID=1207) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:48:24,690] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:48:24,696] {logging_mixin.py:109} INFO - [2023-01-24 20:48:24,695] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:48:25,607] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:48:25,617] {logging_mixin.py:109} INFO - [2023-01-24 20:48:25,616] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:48:25,631] {logging_mixin.py:109} INFO - [2023-01-24 20:48:25,631] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:48:25.631540+00:00
+[2023-01-24 20:48:25,642] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.971 seconds
+[2023-01-24 20:48:56,142] {processor.py:163} INFO - Started process (PID=1284) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:48:56,144] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:48:56,145] {logging_mixin.py:109} INFO - [2023-01-24 20:48:56,145] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:48:56,754] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:48:56,765] {logging_mixin.py:109} INFO - [2023-01-24 20:48:56,765] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:48:56,780] {logging_mixin.py:109} INFO - [2023-01-24 20:48:56,780] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:48:56.779962+00:00
+[2023-01-24 20:48:56,790] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.652 seconds
+[2023-01-24 20:49:27,462] {processor.py:163} INFO - Started process (PID=1370) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:49:27,464] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:49:27,465] {logging_mixin.py:109} INFO - [2023-01-24 20:49:27,465] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:49:27,949] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:49:27,959] {logging_mixin.py:109} INFO - [2023-01-24 20:49:27,959] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:49:27,976] {logging_mixin.py:109} INFO - [2023-01-24 20:49:27,976] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:49:27.976264+00:00
+[2023-01-24 20:49:27,985] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.526 seconds
+[2023-01-24 20:49:58,115] {processor.py:163} INFO - Started process (PID=1447) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:49:58,118] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:49:58,120] {logging_mixin.py:109} INFO - [2023-01-24 20:49:58,119] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:49:58,687] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:49:58,699] {logging_mixin.py:109} INFO - [2023-01-24 20:49:58,699] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:49:58,714] {logging_mixin.py:109} INFO - [2023-01-24 20:49:58,714] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:49:58.714312+00:00
+[2023-01-24 20:49:58,722] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.613 seconds
+[2023-01-24 20:50:28,995] {processor.py:163} INFO - Started process (PID=1524) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:50:29,000] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:50:29,004] {logging_mixin.py:109} INFO - [2023-01-24 20:50:29,003] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:50:30,405] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:50:30,419] {logging_mixin.py:109} INFO - [2023-01-24 20:50:30,418] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:50:30,436] {logging_mixin.py:109} INFO - [2023-01-24 20:50:30,436] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:50:30.436366+00:00
+[2023-01-24 20:50:30,449] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.481 seconds
+[2023-01-24 20:51:01,423] {processor.py:163} INFO - Started process (PID=1610) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:51:01,426] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:51:01,427] {logging_mixin.py:109} INFO - [2023-01-24 20:51:01,427] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:51:01,905] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:51:01,915] {logging_mixin.py:109} INFO - [2023-01-24 20:51:01,915] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:51:01,926] {logging_mixin.py:109} INFO - [2023-01-24 20:51:01,926] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:51:01.926577+00:00
+[2023-01-24 20:51:01,936] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.517 seconds
+[2023-01-24 20:51:32,111] {processor.py:163} INFO - Started process (PID=1687) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:51:32,113] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:51:32,114] {logging_mixin.py:109} INFO - [2023-01-24 20:51:32,114] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:51:32,669] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:51:32,679] {logging_mixin.py:109} INFO - [2023-01-24 20:51:32,679] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:51:32,692] {logging_mixin.py:109} INFO - [2023-01-24 20:51:32,692] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:51:32.692545+00:00
+[2023-01-24 20:51:32,701] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.594 seconds
+[2023-01-24 20:52:02,806] {processor.py:163} INFO - Started process (PID=1772) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:52:02,808] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:52:02,810] {logging_mixin.py:109} INFO - [2023-01-24 20:52:02,810] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:52:03,284] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:52:03,294] {logging_mixin.py:109} INFO - [2023-01-24 20:52:03,293] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:52:03,307] {logging_mixin.py:109} INFO - [2023-01-24 20:52:03,307] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:52:03.307106+00:00
+[2023-01-24 20:52:03,317] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.516 seconds
+[2023-01-24 20:52:33,596] {processor.py:163} INFO - Started process (PID=1849) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:52:33,598] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:52:33,600] {logging_mixin.py:109} INFO - [2023-01-24 20:52:33,600] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:52:34,408] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:52:34,450] {logging_mixin.py:109} INFO - [2023-01-24 20:52:34,448] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:52:34,516] {logging_mixin.py:109} INFO - [2023-01-24 20:52:34,515] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:52:34.515151+00:00
+[2023-01-24 20:52:34,561] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.971 seconds
+[2023-01-24 20:53:04,887] {processor.py:163} INFO - Started process (PID=1935) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:53:04,893] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:53:04,896] {logging_mixin.py:109} INFO - [2023-01-24 20:53:04,896] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:53:05,588] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:53:05,599] {logging_mixin.py:109} INFO - [2023-01-24 20:53:05,598] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:53:05,611] {logging_mixin.py:109} INFO - [2023-01-24 20:53:05,610] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:53:05.610635+00:00
+[2023-01-24 20:53:05,619] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.749 seconds
+[2023-01-24 20:53:35,778] {processor.py:163} INFO - Started process (PID=2012) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:53:35,780] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:53:35,782] {logging_mixin.py:109} INFO - [2023-01-24 20:53:35,782] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:53:36,280] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:53:36,291] {logging_mixin.py:109} INFO - [2023-01-24 20:53:36,291] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:53:36,305] {logging_mixin.py:109} INFO - [2023-01-24 20:53:36,305] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:53:36.305252+00:00
+[2023-01-24 20:53:36,316] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.543 seconds
+[2023-01-24 20:54:06,560] {processor.py:163} INFO - Started process (PID=2098) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:54:06,562] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:54:06,563] {logging_mixin.py:109} INFO - [2023-01-24 20:54:06,563] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:54:07,043] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:54:07,052] {logging_mixin.py:109} INFO - [2023-01-24 20:54:07,052] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:54:07,066] {logging_mixin.py:109} INFO - [2023-01-24 20:54:07,066] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:54:07.065695+00:00
+[2023-01-24 20:54:07,072] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.516 seconds
+[2023-01-24 20:54:37,999] {processor.py:163} INFO - Started process (PID=2184) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:54:38,001] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:54:38,002] {logging_mixin.py:109} INFO - [2023-01-24 20:54:38,002] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:54:38,457] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:54:38,467] {logging_mixin.py:109} INFO - [2023-01-24 20:54:38,466] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:54:38,480] {logging_mixin.py:109} INFO - [2023-01-24 20:54:38,480] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:54:38.480077+00:00
+[2023-01-24 20:54:38,488] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.492 seconds
+[2023-01-24 20:55:08,658] {processor.py:163} INFO - Started process (PID=2259) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:55:08,660] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:55:08,661] {logging_mixin.py:109} INFO - [2023-01-24 20:55:08,661] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:55:09,897] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:55:09,926] {logging_mixin.py:109} INFO - [2023-01-24 20:55:09,925] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:55:09,966] {logging_mixin.py:109} INFO - [2023-01-24 20:55:09,966] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:55:09.965950+00:00
+[2023-01-24 20:55:09,999] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.344 seconds
+[2023-01-24 20:55:40,460] {processor.py:163} INFO - Started process (PID=2327) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:55:40,462] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:55:40,463] {logging_mixin.py:109} INFO - [2023-01-24 20:55:40,463] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:55:40,975] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:55:40,997] {logging_mixin.py:109} INFO - [2023-01-24 20:55:40,997] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:55:41,008] {logging_mixin.py:109} INFO - [2023-01-24 20:55:41,008] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:55:41.008628+00:00
+[2023-01-24 20:55:41,024] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.568 seconds
+[2023-01-24 20:56:11,273] {processor.py:163} INFO - Started process (PID=2404) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:56:11,275] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:56:11,277] {logging_mixin.py:109} INFO - [2023-01-24 20:56:11,276] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:56:11,712] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:56:11,737] {logging_mixin.py:109} INFO - [2023-01-24 20:56:11,736] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:56:11,749] {logging_mixin.py:109} INFO - [2023-01-24 20:56:11,749] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:56:11.748882+00:00
+[2023-01-24 20:56:11,767] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.499 seconds
+[2023-01-24 20:56:42,010] {processor.py:163} INFO - Started process (PID=2490) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:56:42,012] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:56:42,013] {logging_mixin.py:109} INFO - [2023-01-24 20:56:42,013] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:56:42,417] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:56:42,425] {logging_mixin.py:109} INFO - [2023-01-24 20:56:42,425] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:56:42,436] {logging_mixin.py:109} INFO - [2023-01-24 20:56:42,436] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:56:42.436307+00:00
+[2023-01-24 20:56:42,442] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.436 seconds
+[2023-01-24 20:57:12,738] {processor.py:163} INFO - Started process (PID=2567) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:57:12,741] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:57:12,742] {logging_mixin.py:109} INFO - [2023-01-24 20:57:12,742] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:57:13,165] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:57:13,176] {logging_mixin.py:109} INFO - [2023-01-24 20:57:13,176] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:57:13,187] {logging_mixin.py:109} INFO - [2023-01-24 20:57:13,187] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:57:13.187526+00:00
+[2023-01-24 20:57:13,194] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.460 seconds
+[2023-01-24 20:57:43,452] {processor.py:163} INFO - Started process (PID=2653) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:57:43,455] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:57:43,456] {logging_mixin.py:109} INFO - [2023-01-24 20:57:43,456] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:57:44,254] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:57:44,277] {logging_mixin.py:109} INFO - [2023-01-24 20:57:44,276] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:57:44,309] {logging_mixin.py:109} INFO - [2023-01-24 20:57:44,309] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:57:44.309117+00:00
+[2023-01-24 20:57:44,332] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.884 seconds
+[2023-01-24 20:58:14,658] {processor.py:163} INFO - Started process (PID=2729) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:58:14,663] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:58:14,668] {logging_mixin.py:109} INFO - [2023-01-24 20:58:14,667] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:58:15,454] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:58:15,463] {logging_mixin.py:109} INFO - [2023-01-24 20:58:15,463] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:58:15,473] {logging_mixin.py:109} INFO - [2023-01-24 20:58:15,473] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:58:15.473168+00:00
+[2023-01-24 20:58:15,479] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.828 seconds
+[2023-01-24 20:58:46,007] {processor.py:163} INFO - Started process (PID=2815) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:58:46,017] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:58:46,026] {logging_mixin.py:109} INFO - [2023-01-24 20:58:46,025] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:58:47,485] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:58:47,498] {logging_mixin.py:109} INFO - [2023-01-24 20:58:47,497] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:58:47,516] {logging_mixin.py:109} INFO - [2023-01-24 20:58:47,515] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:58:47.515576+00:00
+[2023-01-24 20:58:47,527] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.550 seconds
+[2023-01-24 20:59:17,909] {processor.py:163} INFO - Started process (PID=2893) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:59:17,911] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:59:17,912] {logging_mixin.py:109} INFO - [2023-01-24 20:59:17,912] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:59:18,432] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:59:18,441] {logging_mixin.py:109} INFO - [2023-01-24 20:59:18,440] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:59:18,453] {logging_mixin.py:109} INFO - [2023-01-24 20:59:18,453] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:59:18.453355+00:00
+[2023-01-24 20:59:18,462] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.557 seconds
+[2023-01-24 20:59:48,610] {processor.py:163} INFO - Started process (PID=2979) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 20:59:48,612] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 20:59:48,614] {logging_mixin.py:109} INFO - [2023-01-24 20:59:48,613] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:59:49,882] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 20:59:49,916] {logging_mixin.py:109} INFO - [2023-01-24 20:59:49,916] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 20:59:49,966] {logging_mixin.py:109} INFO - [2023-01-24 20:59:49,966] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T20:59:49.965663+00:00
+[2023-01-24 20:59:50,000] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.395 seconds
+[2023-01-24 21:00:20,327] {processor.py:163} INFO - Started process (PID=3056) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:00:20,329] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:00:20,330] {logging_mixin.py:109} INFO - [2023-01-24 21:00:20,330] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:00:20,799] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:00:20,808] {logging_mixin.py:109} INFO - [2023-01-24 21:00:20,808] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:00:20,821] {logging_mixin.py:109} INFO - [2023-01-24 21:00:20,821] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:00:20.821071+00:00
+[2023-01-24 21:00:20,829] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.507 seconds
+[2023-01-24 21:00:50,994] {processor.py:163} INFO - Started process (PID=3133) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:00:50,996] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:00:50,997] {logging_mixin.py:109} INFO - [2023-01-24 21:00:50,997] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:00:51,490] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:00:51,500] {logging_mixin.py:109} INFO - [2023-01-24 21:00:51,500] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:00:51,513] {logging_mixin.py:109} INFO - [2023-01-24 21:00:51,513] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:00:51.513512+00:00
+[2023-01-24 21:00:51,521] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.530 seconds
+[2023-01-24 21:01:21,644] {processor.py:163} INFO - Started process (PID=3218) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:01:21,646] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:01:21,647] {logging_mixin.py:109} INFO - [2023-01-24 21:01:21,647] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:01:22,117] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:01:22,128] {logging_mixin.py:109} INFO - [2023-01-24 21:01:22,128] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:01:22,144] {logging_mixin.py:109} INFO - [2023-01-24 21:01:22,144] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:01:22.144220+00:00
+[2023-01-24 21:01:22,156] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.516 seconds
+[2023-01-24 21:01:52,333] {processor.py:163} INFO - Started process (PID=3302) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:01:52,335] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:01:52,336] {logging_mixin.py:109} INFO - [2023-01-24 21:01:52,336] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:01:52,822] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:01:52,831] {logging_mixin.py:109} INFO - [2023-01-24 21:01:52,831] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:01:52,844] {logging_mixin.py:109} INFO - [2023-01-24 21:01:52,844] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:01:52.844081+00:00
+[2023-01-24 21:01:52,853] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.523 seconds
+[2023-01-24 21:02:22,959] {processor.py:163} INFO - Started process (PID=3391) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:02:22,962] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:02:22,963] {logging_mixin.py:109} INFO - [2023-01-24 21:02:22,962] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:02:23,420] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:02:23,431] {logging_mixin.py:109} INFO - [2023-01-24 21:02:23,431] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:02:23,447] {logging_mixin.py:109} INFO - [2023-01-24 21:02:23,446] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:02:23.446787+00:00
+[2023-01-24 21:02:23,454] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.500 seconds
+[2023-01-24 21:02:53,603] {processor.py:163} INFO - Started process (PID=3465) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:02:53,605] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:02:53,606] {logging_mixin.py:109} INFO - [2023-01-24 21:02:53,606] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:02:54,785] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:02:54,826] {logging_mixin.py:109} INFO - [2023-01-24 21:02:54,825] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:02:54,873] {logging_mixin.py:109} INFO - [2023-01-24 21:02:54,873] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:02:54.872616+00:00
+[2023-01-24 21:02:54,900] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.301 seconds
+[2023-01-24 21:03:25,150] {processor.py:163} INFO - Started process (PID=3535) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:03:25,158] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:03:25,164] {logging_mixin.py:109} INFO - [2023-01-24 21:03:25,164] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:03:25,769] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:03:25,780] {logging_mixin.py:109} INFO - [2023-01-24 21:03:25,779] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:03:25,792] {logging_mixin.py:109} INFO - [2023-01-24 21:03:25,792] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:03:25.792585+00:00
+[2023-01-24 21:03:25,800] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.661 seconds
+[2023-01-24 21:03:56,018] {processor.py:163} INFO - Started process (PID=3610) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:03:56,021] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:03:56,021] {logging_mixin.py:109} INFO - [2023-01-24 21:03:56,021] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:03:56,447] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:03:56,458] {logging_mixin.py:109} INFO - [2023-01-24 21:03:56,457] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:03:56,470] {logging_mixin.py:109} INFO - [2023-01-24 21:03:56,470] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:03:56.470111+00:00
+[2023-01-24 21:03:56,477] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.462 seconds
+[2023-01-24 21:04:27,205] {processor.py:163} INFO - Started process (PID=3687) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:04:27,208] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:04:27,209] {logging_mixin.py:109} INFO - [2023-01-24 21:04:27,209] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:04:27,678] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:04:27,688] {logging_mixin.py:109} INFO - [2023-01-24 21:04:27,688] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:04:27,700] {logging_mixin.py:109} INFO - [2023-01-24 21:04:27,700] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:04:27.700084+00:00
+[2023-01-24 21:04:27,708] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.508 seconds
+[2023-01-24 21:04:58,133] {processor.py:163} INFO - Started process (PID=3773) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:04:58,135] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:04:58,137] {logging_mixin.py:109} INFO - [2023-01-24 21:04:58,136] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:04:58,633] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:04:58,642] {logging_mixin.py:109} INFO - [2023-01-24 21:04:58,642] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:04:58,654] {logging_mixin.py:109} INFO - [2023-01-24 21:04:58,654] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:04:58.654411+00:00
+[2023-01-24 21:04:58,662] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.534 seconds
+[2023-01-24 21:05:28,817] {processor.py:163} INFO - Started process (PID=3850) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:05:28,822] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:05:28,824] {logging_mixin.py:109} INFO - [2023-01-24 21:05:28,824] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:05:29,933] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:05:29,956] {logging_mixin.py:109} INFO - [2023-01-24 21:05:29,956] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:05:29,988] {logging_mixin.py:109} INFO - [2023-01-24 21:05:29,988] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:05:29.987698+00:00
+[2023-01-24 21:05:30,014] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.224 seconds
+[2023-01-24 21:06:00,194] {processor.py:163} INFO - Started process (PID=3936) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:06:00,199] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:06:00,202] {logging_mixin.py:109} INFO - [2023-01-24 21:06:00,202] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:06:00,684] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:06:00,693] {logging_mixin.py:109} INFO - [2023-01-24 21:06:00,693] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:06:00,705] {logging_mixin.py:109} INFO - [2023-01-24 21:06:00,705] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:06:00.705022+00:00
+[2023-01-24 21:06:00,712] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.527 seconds
+[2023-01-24 21:06:31,108] {processor.py:163} INFO - Started process (PID=4013) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:06:31,111] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:06:31,112] {logging_mixin.py:109} INFO - [2023-01-24 21:06:31,112] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:06:31,605] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:06:31,614] {logging_mixin.py:109} INFO - [2023-01-24 21:06:31,614] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:06:31,628] {logging_mixin.py:109} INFO - [2023-01-24 21:06:31,628] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:06:31.628078+00:00
+[2023-01-24 21:06:31,636] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.533 seconds
+[2023-01-24 21:07:01,806] {processor.py:163} INFO - Started process (PID=4099) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:07:01,808] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:07:01,810] {logging_mixin.py:109} INFO - [2023-01-24 21:07:01,810] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:07:02,298] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:07:02,307] {logging_mixin.py:109} INFO - [2023-01-24 21:07:02,306] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:07:02,321] {logging_mixin.py:109} INFO - [2023-01-24 21:07:02,321] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:07:02.321056+00:00
+[2023-01-24 21:07:02,330] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.529 seconds
+[2023-01-24 21:07:32,495] {processor.py:163} INFO - Started process (PID=4176) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:07:32,497] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:07:32,498] {logging_mixin.py:109} INFO - [2023-01-24 21:07:32,498] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:07:32,962] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:07:32,971] {logging_mixin.py:109} INFO - [2023-01-24 21:07:32,971] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:07:32,984] {logging_mixin.py:109} INFO - [2023-01-24 21:07:32,984] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:07:32.984523+00:00
+[2023-01-24 21:07:32,994] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.504 seconds
+[2023-01-24 21:08:03,127] {processor.py:163} INFO - Started process (PID=4262) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:08:03,129] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:08:03,130] {logging_mixin.py:109} INFO - [2023-01-24 21:08:03,130] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:08:03,671] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:08:03,683] {logging_mixin.py:109} INFO - [2023-01-24 21:08:03,682] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:08:03,699] {logging_mixin.py:109} INFO - [2023-01-24 21:08:03,699] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:08:03.699204+00:00
+[2023-01-24 21:08:03,710] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.588 seconds
+[2023-01-24 21:08:33,927] {processor.py:163} INFO - Started process (PID=4339) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:08:33,932] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:08:33,934] {logging_mixin.py:109} INFO - [2023-01-24 21:08:33,933] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:08:34,964] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:08:34,989] {logging_mixin.py:109} INFO - [2023-01-24 21:08:34,988] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:08:35,015] {logging_mixin.py:109} INFO - [2023-01-24 21:08:35,015] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:08:35.014808+00:00
+[2023-01-24 21:08:35,037] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.119 seconds
+[2023-01-24 21:09:05,613] {processor.py:163} INFO - Started process (PID=4425) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:09:05,615] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:09:05,617] {logging_mixin.py:109} INFO - [2023-01-24 21:09:05,616] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:09:06,084] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:09:06,095] {logging_mixin.py:109} INFO - [2023-01-24 21:09:06,094] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:09:06,107] {logging_mixin.py:109} INFO - [2023-01-24 21:09:06,107] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:09:06.106994+00:00
+[2023-01-24 21:09:06,115] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.507 seconds
+[2023-01-24 21:09:36,461] {processor.py:163} INFO - Started process (PID=4502) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:09:36,463] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:09:36,464] {logging_mixin.py:109} INFO - [2023-01-24 21:09:36,464] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:09:36,945] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:09:36,954] {logging_mixin.py:109} INFO - [2023-01-24 21:09:36,953] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:09:36,965] {logging_mixin.py:109} INFO - [2023-01-24 21:09:36,965] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:09:36.965308+00:00
+[2023-01-24 21:09:36,974] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.517 seconds
+[2023-01-24 21:10:07,125] {processor.py:163} INFO - Started process (PID=4588) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:10:07,127] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:10:07,128] {logging_mixin.py:109} INFO - [2023-01-24 21:10:07,128] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:10:07,600] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:10:07,609] {logging_mixin.py:109} INFO - [2023-01-24 21:10:07,608] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:10:07,620] {logging_mixin.py:109} INFO - [2023-01-24 21:10:07,620] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:10:07.620229+00:00
+[2023-01-24 21:10:07,628] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.507 seconds
+[2023-01-24 21:10:37,724] {processor.py:163} INFO - Started process (PID=4656) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:10:37,726] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:10:37,727] {logging_mixin.py:109} INFO - [2023-01-24 21:10:37,727] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:10:38,193] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:10:38,204] {logging_mixin.py:109} INFO - [2023-01-24 21:10:38,204] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:10:38,220] {logging_mixin.py:109} INFO - [2023-01-24 21:10:38,219] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:10:38.219742+00:00
+[2023-01-24 21:10:38,229] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.509 seconds
+[2023-01-24 21:11:08,594] {processor.py:163} INFO - Started process (PID=4731) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:11:08,596] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:11:08,598] {logging_mixin.py:109} INFO - [2023-01-24 21:11:08,598] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:11:09,614] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:11:09,651] {logging_mixin.py:109} INFO - [2023-01-24 21:11:09,649] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:11:09,705] {logging_mixin.py:109} INFO - [2023-01-24 21:11:09,705] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:11:09.704800+00:00
+[2023-01-24 21:11:09,735] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.147 seconds
+[2023-01-24 21:11:40,302] {processor.py:163} INFO - Started process (PID=4808) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:11:40,305] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:11:40,306] {logging_mixin.py:109} INFO - [2023-01-24 21:11:40,306] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:11:40,758] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:11:40,771] {logging_mixin.py:109} INFO - [2023-01-24 21:11:40,770] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:11:40,793] {logging_mixin.py:109} INFO - [2023-01-24 21:11:40,793] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:11:40.792883+00:00
+[2023-01-24 21:11:40,836] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.539 seconds
+[2023-01-24 21:12:11,361] {processor.py:163} INFO - Started process (PID=4894) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:12:11,363] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:12:11,365] {logging_mixin.py:109} INFO - [2023-01-24 21:12:11,365] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:12:11,851] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:12:11,863] {logging_mixin.py:109} INFO - [2023-01-24 21:12:11,863] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:12:11,878] {logging_mixin.py:109} INFO - [2023-01-24 21:12:11,878] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:12:11.878207+00:00
+[2023-01-24 21:12:11,886] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.530 seconds
+[2023-01-24 21:12:42,116] {processor.py:163} INFO - Started process (PID=4971) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:12:42,117] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:12:42,119] {logging_mixin.py:109} INFO - [2023-01-24 21:12:42,119] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:12:42,641] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:12:42,651] {logging_mixin.py:109} INFO - [2023-01-24 21:12:42,651] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:12:42,664] {logging_mixin.py:109} INFO - [2023-01-24 21:12:42,663] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:12:42.663741+00:00
+[2023-01-24 21:12:42,673] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.563 seconds
+[2023-01-24 21:13:12,870] {processor.py:163} INFO - Started process (PID=5057) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:13:12,872] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:13:12,873] {logging_mixin.py:109} INFO - [2023-01-24 21:13:12,873] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:13:13,369] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:13:13,378] {logging_mixin.py:109} INFO - [2023-01-24 21:13:13,377] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:13:13,390] {logging_mixin.py:109} INFO - [2023-01-24 21:13:13,389] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:13:13.389698+00:00
+[2023-01-24 21:13:13,398] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.532 seconds
+[2023-01-24 21:13:43,578] {processor.py:163} INFO - Started process (PID=5134) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:13:43,580] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:13:43,581] {logging_mixin.py:109} INFO - [2023-01-24 21:13:43,581] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:13:44,538] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:13:44,599] {logging_mixin.py:109} INFO - [2023-01-24 21:13:44,598] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:13:44,698] {logging_mixin.py:109} INFO - [2023-01-24 21:13:44,698] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:13:44.697764+00:00
+[2023-01-24 21:13:44,777] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.203 seconds
+[2023-01-24 21:14:15,060] {processor.py:163} INFO - Started process (PID=5220) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:14:15,064] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:14:15,069] {logging_mixin.py:109} INFO - [2023-01-24 21:14:15,069] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:14:15,670] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:14:15,679] {logging_mixin.py:109} INFO - [2023-01-24 21:14:15,679] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:14:15,692] {logging_mixin.py:109} INFO - [2023-01-24 21:14:15,692] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:14:15.692324+00:00
+[2023-01-24 21:14:15,700] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.649 seconds
+[2023-01-24 21:14:45,842] {processor.py:163} INFO - Started process (PID=5297) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:14:45,845] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:14:45,848] {logging_mixin.py:109} INFO - [2023-01-24 21:14:45,848] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:14:46,338] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:14:46,347] {logging_mixin.py:109} INFO - [2023-01-24 21:14:46,346] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:14:46,367] {logging_mixin.py:109} INFO - [2023-01-24 21:14:46,367] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:14:46.367191+00:00
+[2023-01-24 21:14:46,376] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.540 seconds
+[2023-01-24 21:15:16,614] {processor.py:163} INFO - Started process (PID=5383) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:15:16,616] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:15:16,617] {logging_mixin.py:109} INFO - [2023-01-24 21:15:16,617] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:15:17,088] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:15:17,097] {logging_mixin.py:109} INFO - [2023-01-24 21:15:17,096] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:15:17,109] {logging_mixin.py:109} INFO - [2023-01-24 21:15:17,109] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:15:17.108819+00:00
+[2023-01-24 21:15:17,116] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.508 seconds
+[2023-01-24 21:15:47,308] {processor.py:163} INFO - Started process (PID=5447) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:15:47,310] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:15:47,311] {logging_mixin.py:109} INFO - [2023-01-24 21:15:47,311] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:15:47,805] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:15:47,814] {logging_mixin.py:109} INFO - [2023-01-24 21:15:47,814] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:15:47,826] {logging_mixin.py:109} INFO - [2023-01-24 21:15:47,825] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:15:47.825783+00:00
+[2023-01-24 21:15:47,833] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.532 seconds
+[2023-01-24 21:16:18,340] {processor.py:163} INFO - Started process (PID=5533) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:16:18,342] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:16:18,343] {logging_mixin.py:109} INFO - [2023-01-24 21:16:18,343] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:16:18,815] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:16:18,824] {logging_mixin.py:109} INFO - [2023-01-24 21:16:18,824] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:16:18,835] {logging_mixin.py:109} INFO - [2023-01-24 21:16:18,835] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:16:18.835729+00:00
+[2023-01-24 21:16:18,842] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.507 seconds
+[2023-01-24 21:16:49,680] {processor.py:163} INFO - Started process (PID=5619) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:16:49,687] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:16:49,691] {logging_mixin.py:109} INFO - [2023-01-24 21:16:49,691] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:16:50,588] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:16:50,610] {logging_mixin.py:109} INFO - [2023-01-24 21:16:50,609] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:16:50,642] {logging_mixin.py:109} INFO - [2023-01-24 21:16:50,641] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:16:50.641546+00:00
+[2023-01-24 21:16:50,665] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.992 seconds
+[2023-01-24 21:17:20,870] {processor.py:163} INFO - Started process (PID=5696) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:17:20,873] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:17:20,874] {logging_mixin.py:109} INFO - [2023-01-24 21:17:20,874] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:17:21,361] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:17:21,370] {logging_mixin.py:109} INFO - [2023-01-24 21:17:21,370] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:17:21,382] {logging_mixin.py:109} INFO - [2023-01-24 21:17:21,382] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:17:21.382038+00:00
+[2023-01-24 21:17:21,390] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.524 seconds
+[2023-01-24 21:17:51,472] {processor.py:163} INFO - Started process (PID=5773) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:17:51,474] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:17:51,475] {logging_mixin.py:109} INFO - [2023-01-24 21:17:51,475] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:17:51,970] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:17:51,979] {logging_mixin.py:109} INFO - [2023-01-24 21:17:51,978] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:17:51,991] {logging_mixin.py:109} INFO - [2023-01-24 21:17:51,991] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:17:51.991446+00:00
+[2023-01-24 21:17:51,999] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.532 seconds
+[2023-01-24 21:18:22,097] {processor.py:163} INFO - Started process (PID=5857) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:18:22,099] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:18:22,100] {logging_mixin.py:109} INFO - [2023-01-24 21:18:22,100] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:18:22,561] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:18:22,571] {logging_mixin.py:109} INFO - [2023-01-24 21:18:22,571] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:18:22,583] {logging_mixin.py:109} INFO - [2023-01-24 21:18:22,583] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:18:22.583238+00:00
+[2023-01-24 21:18:22,590] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.497 seconds
+[2023-01-24 21:18:53,256] {processor.py:163} INFO - Started process (PID=5924) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:18:53,261] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:18:53,262] {logging_mixin.py:109} INFO - [2023-01-24 21:18:53,262] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:18:53,742] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:18:53,751] {logging_mixin.py:109} INFO - [2023-01-24 21:18:53,750] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:18:53,763] {logging_mixin.py:109} INFO - [2023-01-24 21:18:53,763] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:18:53.763405+00:00
+[2023-01-24 21:18:53,772] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.520 seconds
+[2023-01-24 21:19:23,879] {processor.py:163} INFO - Started process (PID=6001) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:19:23,881] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:19:23,882] {logging_mixin.py:109} INFO - [2023-01-24 21:19:23,882] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:19:24,998] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:19:25,022] {logging_mixin.py:109} INFO - [2023-01-24 21:19:25,021] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:19:25,053] {logging_mixin.py:109} INFO - [2023-01-24 21:19:25,053] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:19:25.052907+00:00
+[2023-01-24 21:19:25,073] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.198 seconds
+[2023-01-24 21:19:55,980] {processor.py:163} INFO - Started process (PID=6086) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:19:55,981] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:19:55,982] {logging_mixin.py:109} INFO - [2023-01-24 21:19:55,982] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:19:56,456] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:19:56,465] {logging_mixin.py:109} INFO - [2023-01-24 21:19:56,465] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:19:56,475] {logging_mixin.py:109} INFO - [2023-01-24 21:19:56,475] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:19:56.475728+00:00
+[2023-01-24 21:19:56,483] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.509 seconds
+[2023-01-24 21:20:26,688] {processor.py:163} INFO - Started process (PID=6163) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:20:26,690] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:20:26,691] {logging_mixin.py:109} INFO - [2023-01-24 21:20:26,690] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:20:27,184] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:20:27,193] {logging_mixin.py:109} INFO - [2023-01-24 21:20:27,192] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:20:27,205] {logging_mixin.py:109} INFO - [2023-01-24 21:20:27,205] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:20:27.204858+00:00
+[2023-01-24 21:20:27,213] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.530 seconds
+[2023-01-24 21:20:57,385] {processor.py:163} INFO - Started process (PID=6249) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:20:57,387] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:20:57,389] {logging_mixin.py:109} INFO - [2023-01-24 21:20:57,389] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:20:57,886] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:20:57,894] {logging_mixin.py:109} INFO - [2023-01-24 21:20:57,894] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:20:57,907] {logging_mixin.py:109} INFO - [2023-01-24 21:20:57,907] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:20:57.906793+00:00
+[2023-01-24 21:20:57,916] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.536 seconds
+[2023-01-24 21:21:28,044] {processor.py:163} INFO - Started process (PID=6326) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:21:28,047] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:21:28,048] {logging_mixin.py:109} INFO - [2023-01-24 21:21:28,048] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:21:28,502] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:21:28,511] {logging_mixin.py:109} INFO - [2023-01-24 21:21:28,511] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:21:28,523] {logging_mixin.py:109} INFO - [2023-01-24 21:21:28,523] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:21:28.522948+00:00
+[2023-01-24 21:21:28,532] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.513 seconds
+[2023-01-24 21:21:58,632] {processor.py:163} INFO - Started process (PID=6412) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:21:58,638] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:21:58,642] {logging_mixin.py:109} INFO - [2023-01-24 21:21:58,641] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:22:00,284] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:22:00,308] {logging_mixin.py:109} INFO - [2023-01-24 21:22:00,307] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:22:00,333] {logging_mixin.py:109} INFO - [2023-01-24 21:22:00,332] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:22:00.332513+00:00
+[2023-01-24 21:22:00,350] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.731 seconds
+[2023-01-24 21:22:30,622] {processor.py:163} INFO - Started process (PID=6489) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:22:30,624] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:22:30,625] {logging_mixin.py:109} INFO - [2023-01-24 21:22:30,625] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:22:31,112] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:22:31,121] {logging_mixin.py:109} INFO - [2023-01-24 21:22:31,121] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:22:31,133] {logging_mixin.py:109} INFO - [2023-01-24 21:22:31,133] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:22:31.133301+00:00
+[2023-01-24 21:22:31,141] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.523 seconds
+[2023-01-24 21:23:01,263] {processor.py:163} INFO - Started process (PID=6575) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:23:01,265] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:23:01,266] {logging_mixin.py:109} INFO - [2023-01-24 21:23:01,266] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:23:01,754] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:23:01,765] {logging_mixin.py:109} INFO - [2023-01-24 21:23:01,765] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:23:01,777] {logging_mixin.py:109} INFO - [2023-01-24 21:23:01,777] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:23:01.777351+00:00
+[2023-01-24 21:23:01,785] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.526 seconds
+[2023-01-24 21:23:31,902] {processor.py:163} INFO - Started process (PID=6652) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:23:31,903] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:23:31,905] {logging_mixin.py:109} INFO - [2023-01-24 21:23:31,905] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:23:32,387] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:23:32,398] {logging_mixin.py:109} INFO - [2023-01-24 21:23:32,397] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:23:32,410] {logging_mixin.py:109} INFO - [2023-01-24 21:23:32,410] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:23:32.410510+00:00
+[2023-01-24 21:23:32,419] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.523 seconds
+[2023-01-24 21:24:02,761] {processor.py:163} INFO - Started process (PID=6738) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:24:02,763] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:24:02,764] {logging_mixin.py:109} INFO - [2023-01-24 21:24:02,764] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:24:03,257] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:24:03,266] {logging_mixin.py:109} INFO - [2023-01-24 21:24:03,266] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:24:03,278] {logging_mixin.py:109} INFO - [2023-01-24 21:24:03,278] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:24:03.278587+00:00
+[2023-01-24 21:24:03,286] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.529 seconds
+[2023-01-24 21:24:34,153] {processor.py:163} INFO - Started process (PID=6815) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:24:34,158] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:24:34,159] {logging_mixin.py:109} INFO - [2023-01-24 21:24:34,159] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:24:35,254] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:24:35,275] {logging_mixin.py:109} INFO - [2023-01-24 21:24:35,275] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:24:35,309] {logging_mixin.py:109} INFO - [2023-01-24 21:24:35,308] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:24:35.308577+00:00
+[2023-01-24 21:24:35,328] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.185 seconds
+[2023-01-24 21:25:05,519] {processor.py:163} INFO - Started process (PID=6900) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:25:05,522] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:25:05,523] {logging_mixin.py:109} INFO - [2023-01-24 21:25:05,523] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:25:05,948] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:25:05,958] {logging_mixin.py:109} INFO - [2023-01-24 21:25:05,958] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:25:05,972] {logging_mixin.py:109} INFO - [2023-01-24 21:25:05,972] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:25:05.972486+00:00
+[2023-01-24 21:25:05,981] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.466 seconds
+[2023-01-24 21:25:36,100] {processor.py:163} INFO - Started process (PID=6976) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:25:36,103] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:25:36,104] {logging_mixin.py:109} INFO - [2023-01-24 21:25:36,104] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:25:36,577] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:25:36,587] {logging_mixin.py:109} INFO - [2023-01-24 21:25:36,586] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:25:36,599] {logging_mixin.py:109} INFO - [2023-01-24 21:25:36,599] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:25:36.598924+00:00
+[2023-01-24 21:25:36,606] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.509 seconds
+[2023-01-24 21:26:07,501] {processor.py:163} INFO - Started process (PID=7062) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:26:07,504] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:26:07,505] {logging_mixin.py:109} INFO - [2023-01-24 21:26:07,505] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:26:07,872] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:26:07,883] {logging_mixin.py:109} INFO - [2023-01-24 21:26:07,882] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:26:07,895] {logging_mixin.py:109} INFO - [2023-01-24 21:26:07,895] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:26:07.895162+00:00
+[2023-01-24 21:26:07,904] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.407 seconds
+[2023-01-24 21:26:38,297] {processor.py:163} INFO - Started process (PID=7139) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:26:38,298] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:26:38,299] {logging_mixin.py:109} INFO - [2023-01-24 21:26:38,299] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:26:38,701] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:26:38,713] {logging_mixin.py:109} INFO - [2023-01-24 21:26:38,712] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:26:38,726] {logging_mixin.py:109} INFO - [2023-01-24 21:26:38,726] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:26:38.725839+00:00
+[2023-01-24 21:26:38,734] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.440 seconds
+[2023-01-24 21:27:08,944] {processor.py:163} INFO - Started process (PID=7216) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:27:08,947] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:27:08,949] {logging_mixin.py:109} INFO - [2023-01-24 21:27:08,949] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:27:09,965] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:27:09,995] {logging_mixin.py:109} INFO - [2023-01-24 21:27:09,994] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:27:10,029] {logging_mixin.py:109} INFO - [2023-01-24 21:27:10,028] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:27:10.028517+00:00
+[2023-01-24 21:27:10,049] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.115 seconds
+[2023-01-24 21:27:40,665] {processor.py:163} INFO - Started process (PID=7283) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:27:40,670] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:27:40,676] {logging_mixin.py:109} INFO - [2023-01-24 21:27:40,676] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:27:41,481] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:27:41,511] {logging_mixin.py:109} INFO - [2023-01-24 21:27:41,509] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:27:41,547] {logging_mixin.py:109} INFO - [2023-01-24 21:27:41,547] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:27:41.546610+00:00
+[2023-01-24 21:27:41,566] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.910 seconds
+[2023-01-24 21:28:11,875] {processor.py:163} INFO - Started process (PID=7360) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:28:11,890] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:28:11,898] {logging_mixin.py:109} INFO - [2023-01-24 21:28:11,896] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:28:12,998] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:28:13,054] {logging_mixin.py:109} INFO - [2023-01-24 21:28:13,052] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:28:13,116] {logging_mixin.py:109} INFO - [2023-01-24 21:28:13,116] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:28:13.114987+00:00
+[2023-01-24 21:28:13,153] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.301 seconds
+[2023-01-24 21:28:43,527] {processor.py:163} INFO - Started process (PID=7437) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:28:43,536] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:28:43,540] {logging_mixin.py:109} INFO - [2023-01-24 21:28:43,540] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:28:44,441] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:28:44,481] {logging_mixin.py:109} INFO - [2023-01-24 21:28:44,477] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:28:44,533] {logging_mixin.py:109} INFO - [2023-01-24 21:28:44,533] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:28:44.532453+00:00
+[2023-01-24 21:28:44,568] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.072 seconds
+[2023-01-24 21:29:15,016] {processor.py:163} INFO - Started process (PID=7514) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:29:15,020] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:29:15,024] {logging_mixin.py:109} INFO - [2023-01-24 21:29:15,024] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:29:15,887] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:29:15,912] {logging_mixin.py:109} INFO - [2023-01-24 21:29:15,911] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:29:15,939] {logging_mixin.py:109} INFO - [2023-01-24 21:29:15,939] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:29:15.939467+00:00
+[2023-01-24 21:29:15,960] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.955 seconds
+[2023-01-24 21:29:46,152] {processor.py:163} INFO - Started process (PID=7600) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:29:46,155] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:29:46,156] {logging_mixin.py:109} INFO - [2023-01-24 21:29:46,156] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:29:46,553] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:29:46,563] {logging_mixin.py:109} INFO - [2023-01-24 21:29:46,562] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:29:46,578] {logging_mixin.py:109} INFO - [2023-01-24 21:29:46,578] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:29:46.578319+00:00
+[2023-01-24 21:29:46,585] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.438 seconds
+[2023-01-24 21:30:16,665] {processor.py:163} INFO - Started process (PID=7677) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:30:16,667] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:30:16,668] {logging_mixin.py:109} INFO - [2023-01-24 21:30:16,668] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:30:17,008] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:30:17,018] {logging_mixin.py:109} INFO - [2023-01-24 21:30:17,017] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:30:17,030] {logging_mixin.py:109} INFO - [2023-01-24 21:30:17,030] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:30:17.030074+00:00
+[2023-01-24 21:30:17,037] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.375 seconds
+[2023-01-24 21:30:47,165] {processor.py:163} INFO - Started process (PID=7764) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:30:47,167] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:30:47,168] {logging_mixin.py:109} INFO - [2023-01-24 21:30:47,168] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:30:47,567] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:30:47,578] {logging_mixin.py:109} INFO - [2023-01-24 21:30:47,577] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:30:47,590] {logging_mixin.py:109} INFO - [2023-01-24 21:30:47,590] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:30:47.589772+00:00
+[2023-01-24 21:30:47,599] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.437 seconds
+[2023-01-24 21:31:18,389] {processor.py:163} INFO - Started process (PID=7841) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:31:18,391] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:31:18,392] {logging_mixin.py:109} INFO - [2023-01-24 21:31:18,392] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:31:18,710] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:31:18,719] {logging_mixin.py:109} INFO - [2023-01-24 21:31:18,719] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:31:18,731] {logging_mixin.py:109} INFO - [2023-01-24 21:31:18,731] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:31:18.731327+00:00
+[2023-01-24 21:31:18,738] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.354 seconds
+[2023-01-24 21:31:49,732] {processor.py:163} INFO - Started process (PID=7927) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:31:49,737] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:31:49,744] {logging_mixin.py:109} INFO - [2023-01-24 21:31:49,742] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:31:50,655] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:31:50,666] {logging_mixin.py:109} INFO - [2023-01-24 21:31:50,665] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:31:50,682] {logging_mixin.py:109} INFO - [2023-01-24 21:31:50,682] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:31:50.681739+00:00
+[2023-01-24 21:31:50,691] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.974 seconds
+[2023-01-24 21:32:21,496] {processor.py:163} INFO - Started process (PID=8004) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:32:21,498] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:32:21,499] {logging_mixin.py:109} INFO - [2023-01-24 21:32:21,499] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:32:21,897] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:32:21,909] {logging_mixin.py:109} INFO - [2023-01-24 21:32:21,908] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:32:21,924] {logging_mixin.py:109} INFO - [2023-01-24 21:32:21,924] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:32:21.924086+00:00
+[2023-01-24 21:32:21,933] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.441 seconds
+[2023-01-24 21:32:52,105] {processor.py:163} INFO - Started process (PID=8088) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:32:52,107] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:32:52,108] {logging_mixin.py:109} INFO - [2023-01-24 21:32:52,108] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:32:52,523] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:32:52,535] {logging_mixin.py:109} INFO - [2023-01-24 21:32:52,534] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:32:52,549] {logging_mixin.py:109} INFO - [2023-01-24 21:32:52,549] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:32:52.549286+00:00
+[2023-01-24 21:32:52,557] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.456 seconds
+[2023-01-24 21:33:23,221] {processor.py:163} INFO - Started process (PID=8147) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:33:23,223] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:33:23,225] {logging_mixin.py:109} INFO - [2023-01-24 21:33:23,225] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:33:23,597] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:33:23,608] {logging_mixin.py:109} INFO - [2023-01-24 21:33:23,607] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:33:23,622] {logging_mixin.py:109} INFO - [2023-01-24 21:33:23,622] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:33:23.621554+00:00
+[2023-01-24 21:33:23,630] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.414 seconds
+[2023-01-24 21:33:53,825] {processor.py:163} INFO - Started process (PID=8233) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:33:53,827] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:33:53,828] {logging_mixin.py:109} INFO - [2023-01-24 21:33:53,828] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:33:54,803] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:33:54,843] {logging_mixin.py:109} INFO - [2023-01-24 21:33:54,841] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:33:54,925] {logging_mixin.py:109} INFO - [2023-01-24 21:33:54,925] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:33:54.924942+00:00
+[2023-01-24 21:33:54,970] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.150 seconds
+[2023-01-24 21:34:25,138] {processor.py:163} INFO - Started process (PID=8310) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:34:25,143] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:34:25,147] {logging_mixin.py:109} INFO - [2023-01-24 21:34:25,147] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:34:25,668] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:34:25,680] {logging_mixin.py:109} INFO - [2023-01-24 21:34:25,679] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:34:25,697] {logging_mixin.py:109} INFO - [2023-01-24 21:34:25,696] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:34:25.695828+00:00
+[2023-01-24 21:34:25,704] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.575 seconds
+[2023-01-24 21:34:56,173] {processor.py:163} INFO - Started process (PID=8387) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:34:56,175] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:34:56,176] {logging_mixin.py:109} INFO - [2023-01-24 21:34:56,176] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:34:56,574] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:34:56,587] {logging_mixin.py:109} INFO - [2023-01-24 21:34:56,586] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:34:56,601] {logging_mixin.py:109} INFO - [2023-01-24 21:34:56,601] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:34:56.601404+00:00
+[2023-01-24 21:34:56,610] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.441 seconds
+[2023-01-24 21:35:26,670] {processor.py:163} INFO - Started process (PID=8472) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:35:26,673] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:35:26,674] {logging_mixin.py:109} INFO - [2023-01-24 21:35:26,674] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:35:27,064] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:35:27,076] {logging_mixin.py:109} INFO - [2023-01-24 21:35:27,075] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:35:27,090] {logging_mixin.py:109} INFO - [2023-01-24 21:35:27,090] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:35:27.090148+00:00
+[2023-01-24 21:35:27,100] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.433 seconds
+[2023-01-24 21:35:57,244] {processor.py:163} INFO - Started process (PID=8549) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:35:57,246] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:35:57,247] {logging_mixin.py:109} INFO - [2023-01-24 21:35:57,247] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:35:57,668] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:35:57,681] {logging_mixin.py:109} INFO - [2023-01-24 21:35:57,680] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:35:57,697] {logging_mixin.py:109} INFO - [2023-01-24 21:35:57,696] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:35:57.696570+00:00
+[2023-01-24 21:35:57,709] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.469 seconds
+[2023-01-24 21:36:27,911] {processor.py:163} INFO - Started process (PID=8635) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:36:27,913] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:36:27,914] {logging_mixin.py:109} INFO - [2023-01-24 21:36:27,914] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:36:28,285] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:36:28,296] {logging_mixin.py:109} INFO - [2023-01-24 21:36:28,295] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:36:28,308] {logging_mixin.py:109} INFO - [2023-01-24 21:36:28,308] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:36:28.308489+00:00
+[2023-01-24 21:36:28,317] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.411 seconds
+[2023-01-24 21:36:59,124] {processor.py:163} INFO - Started process (PID=8713) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:36:59,129] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:36:59,131] {logging_mixin.py:109} INFO - [2023-01-24 21:36:59,131] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:37:00,312] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:37:00,341] {logging_mixin.py:109} INFO - [2023-01-24 21:37:00,338] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:37:00,375] {logging_mixin.py:109} INFO - [2023-01-24 21:37:00,374] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:37:00.373960+00:00
+[2023-01-24 21:37:00,395] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.282 seconds
+[2023-01-24 21:37:31,134] {processor.py:163} INFO - Started process (PID=8799) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:37:31,136] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:37:31,138] {logging_mixin.py:109} INFO - [2023-01-24 21:37:31,138] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:37:31,508] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:37:31,519] {logging_mixin.py:109} INFO - [2023-01-24 21:37:31,518] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:37:31,534] {logging_mixin.py:109} INFO - [2023-01-24 21:37:31,534] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:37:31.534239+00:00
+[2023-01-24 21:37:31,543] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.415 seconds
+[2023-01-24 21:38:01,807] {processor.py:163} INFO - Started process (PID=8896) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:38:01,810] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:38:01,811] {logging_mixin.py:109} INFO - [2023-01-24 21:38:01,811] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:38:02,195] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:38:02,207] {logging_mixin.py:109} INFO - [2023-01-24 21:38:02,206] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:38:02,219] {logging_mixin.py:109} INFO - [2023-01-24 21:38:02,219] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:38:02.219537+00:00
+[2023-01-24 21:38:02,227] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.424 seconds
+[2023-01-24 21:38:32,745] {processor.py:163} INFO - Started process (PID=8962) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:38:32,748] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:38:32,749] {logging_mixin.py:109} INFO - [2023-01-24 21:38:32,749] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:38:33,117] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:38:33,128] {logging_mixin.py:109} INFO - [2023-01-24 21:38:33,127] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:38:33,143] {logging_mixin.py:109} INFO - [2023-01-24 21:38:33,143] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:38:33.142773+00:00
+[2023-01-24 21:38:33,153] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.413 seconds
+[2023-01-24 21:39:03,297] {processor.py:163} INFO - Started process (PID=9048) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:39:03,299] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:39:03,300] {logging_mixin.py:109} INFO - [2023-01-24 21:39:03,300] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:39:03,718] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:39:03,729] {logging_mixin.py:109} INFO - [2023-01-24 21:39:03,728] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:39:03,744] {logging_mixin.py:109} INFO - [2023-01-24 21:39:03,744] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:39:03.744195+00:00
+[2023-01-24 21:39:03,752] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.460 seconds
+[2023-01-24 21:39:33,814] {processor.py:163} INFO - Started process (PID=9125) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:39:33,816] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:39:33,818] {logging_mixin.py:109} INFO - [2023-01-24 21:39:33,817] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:39:34,567] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:39:34,599] {logging_mixin.py:109} INFO - [2023-01-24 21:39:34,597] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:39:34,639] {logging_mixin.py:109} INFO - [2023-01-24 21:39:34,639] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:39:34.638875+00:00
+[2023-01-24 21:39:34,913] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.104 seconds
+[2023-01-24 21:40:05,150] {processor.py:163} INFO - Started process (PID=9200) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:40:05,154] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:40:05,156] {logging_mixin.py:109} INFO - [2023-01-24 21:40:05,156] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:40:05,999] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:40:06,027] {logging_mixin.py:109} INFO - [2023-01-24 21:40:06,026] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:40:06,068] {logging_mixin.py:109} INFO - [2023-01-24 21:40:06,067] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:40:06.066041+00:00
+[2023-01-24 21:40:06,298] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.159 seconds
+[2023-01-24 21:40:36,610] {processor.py:163} INFO - Started process (PID=9259) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:40:36,613] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:40:36,617] {logging_mixin.py:109} INFO - [2023-01-24 21:40:36,617] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:40:37,407] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:40:37,433] {logging_mixin.py:109} INFO - [2023-01-24 21:40:37,430] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:40:37,472] {logging_mixin.py:109} INFO - [2023-01-24 21:40:37,472] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:40:37.472340+00:00
+[2023-01-24 21:40:37,691] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.088 seconds
+[2023-01-24 21:41:08,434] {processor.py:163} INFO - Started process (PID=9336) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:41:08,440] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:41:08,442] {logging_mixin.py:109} INFO - [2023-01-24 21:41:08,442] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:41:09,594] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:41:09,651] {logging_mixin.py:109} INFO - [2023-01-24 21:41:09,645] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:41:10,030] {logging_mixin.py:109} INFO - [2023-01-24 21:41:10,030] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:41:10.029583+00:00
+[2023-01-24 21:41:10,059] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.632 seconds
+[2023-01-24 21:41:40,445] {processor.py:163} INFO - Started process (PID=9413) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:41:40,450] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:41:40,452] {logging_mixin.py:109} INFO - [2023-01-24 21:41:40,452] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:41:41,376] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:41:41,402] {logging_mixin.py:109} INFO - [2023-01-24 21:41:41,401] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:41:41,677] {logging_mixin.py:109} INFO - [2023-01-24 21:41:41,677] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:41:41.676999+00:00
+[2023-01-24 21:41:41,696] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.261 seconds
+[2023-01-24 21:42:11,921] {processor.py:163} INFO - Started process (PID=9500) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:42:11,927] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:42:11,932] {logging_mixin.py:109} INFO - [2023-01-24 21:42:11,931] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:42:12,715] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:42:12,927] {logging_mixin.py:109} INFO - [2023-01-24 21:42:12,927] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:42:12,949] {logging_mixin.py:109} INFO - [2023-01-24 21:42:12,949] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:42:12.948968+00:00
+[2023-01-24 21:42:12,967] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.053 seconds
+[2023-01-24 21:42:43,596] {processor.py:163} INFO - Started process (PID=9578) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:42:43,601] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:42:43,605] {logging_mixin.py:109} INFO - [2023-01-24 21:42:43,605] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:42:44,514] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:42:44,825] {logging_mixin.py:109} INFO - [2023-01-24 21:42:44,824] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:42:44,865] {logging_mixin.py:109} INFO - [2023-01-24 21:42:44,865] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:42:44.864942+00:00
+[2023-01-24 21:42:44,889] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.306 seconds
+[2023-01-24 21:43:15,700] {processor.py:163} INFO - Started process (PID=9664) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:43:15,707] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:43:15,712] {logging_mixin.py:109} INFO - [2023-01-24 21:43:15,712] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:43:16,882] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:43:17,281] {logging_mixin.py:109} INFO - [2023-01-24 21:43:17,280] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:43:17,327] {logging_mixin.py:109} INFO - [2023-01-24 21:43:17,327] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:43:17.326960+00:00
+[2023-01-24 21:43:17,360] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.681 seconds
+[2023-01-24 21:43:47,630] {processor.py:163} INFO - Started process (PID=9741) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:43:47,637] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:43:47,644] {logging_mixin.py:109} INFO - [2023-01-24 21:43:47,643] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:43:49,339] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:43:49,377] {logging_mixin.py:109} INFO - [2023-01-24 21:43:49,375] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:43:49,424] {logging_mixin.py:109} INFO - [2023-01-24 21:43:49,423] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:43:49.422754+00:00
+[2023-01-24 21:43:49,460] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.843 seconds
+[2023-01-24 21:44:20,302] {processor.py:163} INFO - Started process (PID=9818) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:44:20,307] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:44:20,313] {logging_mixin.py:109} INFO - [2023-01-24 21:44:20,312] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:44:21,822] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:44:21,863] {logging_mixin.py:109} INFO - [2023-01-24 21:44:21,860] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:44:22,000] {logging_mixin.py:109} INFO - [2023-01-24 21:44:21,999] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:44:21.998483+00:00
+[2023-01-24 21:44:22,042] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.752 seconds
+[2023-01-24 21:44:52,758] {processor.py:163} INFO - Started process (PID=9877) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:44:52,762] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:44:52,765] {logging_mixin.py:109} INFO - [2023-01-24 21:44:52,765] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:44:54,528] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:44:54,563] {logging_mixin.py:109} INFO - [2023-01-24 21:44:54,562] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:44:54,620] {logging_mixin.py:109} INFO - [2023-01-24 21:44:54,619] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:44:54.618644+00:00
+[2023-01-24 21:44:54,657] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.914 seconds
+[2023-01-24 21:45:25,269] {processor.py:163} INFO - Started process (PID=9954) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:45:25,276] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:45:25,279] {logging_mixin.py:109} INFO - [2023-01-24 21:45:25,279] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:45:26,532] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:45:26,561] {logging_mixin.py:109} INFO - [2023-01-24 21:45:26,560] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:45:26,596] {logging_mixin.py:109} INFO - [2023-01-24 21:45:26,596] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:45:26.595778+00:00
+[2023-01-24 21:45:26,626] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.365 seconds
+[2023-01-24 21:45:57,028] {processor.py:163} INFO - Started process (PID=10031) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:45:57,033] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:45:57,036] {logging_mixin.py:109} INFO - [2023-01-24 21:45:57,035] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:45:58,169] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:45:58,195] {logging_mixin.py:109} INFO - [2023-01-24 21:45:58,195] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:45:58,229] {logging_mixin.py:109} INFO - [2023-01-24 21:45:58,229] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:45:58.229377+00:00
+[2023-01-24 21:45:58,251] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.257 seconds
+[2023-01-24 21:46:28,512] {processor.py:163} INFO - Started process (PID=10108) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:46:28,522] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:46:28,532] {logging_mixin.py:109} INFO - [2023-01-24 21:46:28,531] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:46:29,846] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:46:29,880] {logging_mixin.py:109} INFO - [2023-01-24 21:46:29,879] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:46:29,919] {logging_mixin.py:109} INFO - [2023-01-24 21:46:29,918] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:46:29.917580+00:00
+[2023-01-24 21:46:29,957] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.460 seconds
+[2023-01-24 21:47:00,555] {processor.py:163} INFO - Started process (PID=10183) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:47:00,562] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:47:00,570] {logging_mixin.py:109} INFO - [2023-01-24 21:47:00,569] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:47:01,869] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:47:01,900] {logging_mixin.py:109} INFO - [2023-01-24 21:47:01,899] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:47:01,941] {logging_mixin.py:109} INFO - [2023-01-24 21:47:01,940] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:47:01.940182+00:00
+[2023-01-24 21:47:01,967] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.427 seconds
+[2023-01-24 21:47:32,218] {processor.py:163} INFO - Started process (PID=10270) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:47:32,221] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:47:32,225] {logging_mixin.py:109} INFO - [2023-01-24 21:47:32,224] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:47:33,422] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:47:33,445] {logging_mixin.py:109} INFO - [2023-01-24 21:47:33,443] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:47:33,480] {logging_mixin.py:109} INFO - [2023-01-24 21:47:33,479] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:47:33.478387+00:00
+[2023-01-24 21:47:33,510] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.304 seconds
+[2023-01-24 21:48:04,389] {processor.py:163} INFO - Started process (PID=10347) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:48:04,393] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:48:04,396] {logging_mixin.py:109} INFO - [2023-01-24 21:48:04,395] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:48:05,707] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:48:05,734] {logging_mixin.py:109} INFO - [2023-01-24 21:48:05,732] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:48:05,769] {logging_mixin.py:109} INFO - [2023-01-24 21:48:05,768] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:48:05.768036+00:00
+[2023-01-24 21:48:05,790] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.412 seconds
+[2023-01-24 21:48:36,543] {processor.py:163} INFO - Started process (PID=10423) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:48:36,549] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:48:36,555] {logging_mixin.py:109} INFO - [2023-01-24 21:48:36,554] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:48:38,226] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:48:38,257] {logging_mixin.py:109} INFO - [2023-01-24 21:48:38,257] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:48:38,294] {logging_mixin.py:109} INFO - [2023-01-24 21:48:38,294] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:48:38.293578+00:00
+[2023-01-24 21:48:38,322] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.792 seconds
+[2023-01-24 21:49:10,411] {processor.py:163} INFO - Started process (PID=10501) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:49:10,414] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:49:10,418] {logging_mixin.py:109} INFO - [2023-01-24 21:49:10,417] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:49:11,606] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:49:11,630] {logging_mixin.py:109} INFO - [2023-01-24 21:49:11,629] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:49:11,665] {logging_mixin.py:109} INFO - [2023-01-24 21:49:11,664] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:49:11.664187+00:00
+[2023-01-24 21:49:11,691] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.289 seconds
+[2023-01-24 21:49:42,757] {processor.py:163} INFO - Started process (PID=10560) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:49:42,761] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:49:42,763] {logging_mixin.py:109} INFO - [2023-01-24 21:49:42,763] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:49:44,033] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:49:44,070] {logging_mixin.py:109} INFO - [2023-01-24 21:49:44,067] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:49:44,123] {logging_mixin.py:109} INFO - [2023-01-24 21:49:44,122] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:49:44.121914+00:00
+[2023-01-24 21:49:44,159] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.412 seconds
+[2023-01-24 21:50:14,478] {processor.py:163} INFO - Started process (PID=10637) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:50:14,484] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:50:14,488] {logging_mixin.py:109} INFO - [2023-01-24 21:50:14,488] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:50:15,696] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:50:15,720] {logging_mixin.py:109} INFO - [2023-01-24 21:50:15,719] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:50:15,757] {logging_mixin.py:109} INFO - [2023-01-24 21:50:15,756] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:50:15.756305+00:00
+[2023-01-24 21:50:15,782] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.316 seconds
+[2023-01-24 21:50:45,899] {processor.py:163} INFO - Started process (PID=10714) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:50:45,901] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:50:45,903] {logging_mixin.py:109} INFO - [2023-01-24 21:50:45,903] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:50:46,935] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:50:46,963] {logging_mixin.py:109} INFO - [2023-01-24 21:50:46,960] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:50:46,995] {logging_mixin.py:109} INFO - [2023-01-24 21:50:46,995] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:50:46.993955+00:00
+[2023-01-24 21:50:47,017] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.128 seconds
+[2023-01-24 21:51:17,434] {processor.py:163} INFO - Started process (PID=10791) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:51:17,437] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:51:17,438] {logging_mixin.py:109} INFO - [2023-01-24 21:51:17,438] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:51:18,386] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:51:18,411] {logging_mixin.py:109} INFO - [2023-01-24 21:51:18,410] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:51:18,449] {logging_mixin.py:109} INFO - [2023-01-24 21:51:18,449] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:51:18.448143+00:00
+[2023-01-24 21:51:18,470] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.047 seconds
+[2023-01-24 21:51:49,210] {processor.py:163} INFO - Started process (PID=10868) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:51:49,216] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:51:49,220] {logging_mixin.py:109} INFO - [2023-01-24 21:51:49,219] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:51:50,133] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:51:50,171] {logging_mixin.py:109} INFO - [2023-01-24 21:51:50,168] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:51:50,210] {logging_mixin.py:109} INFO - [2023-01-24 21:51:50,209] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:51:50.209541+00:00
+[2023-01-24 21:51:50,222] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.019 seconds
+[2023-01-24 21:52:20,476] {processor.py:163} INFO - Started process (PID=10945) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 21:52:20,481] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 21:52:20,487] {logging_mixin.py:109} INFO - [2023-01-24 21:52:20,486] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:52:21,571] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 21:52:21,595] {logging_mixin.py:109} INFO - [2023-01-24 21:52:21,593] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 21:52:21,636] {logging_mixin.py:109} INFO - [2023-01-24 21:52:21,635] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T21:52:21.634156+00:00
+[2023-01-24 21:52:21,658] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.196 seconds
+[2023-01-24 22:08:18,992] {processor.py:163} INFO - Started process (PID=10997) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 22:08:18,995] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 22:08:18,997] {logging_mixin.py:109} INFO - [2023-01-24 22:08:18,997] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:08:19,798] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:08:19,824] {logging_mixin.py:109} INFO - [2023-01-24 22:08:19,823] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 22:08:19,851] {logging_mixin.py:109} INFO - [2023-01-24 22:08:19,851] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T22:08:19.850949+00:00
+[2023-01-24 22:08:19,871] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.886 seconds
+[2023-01-24 22:08:20,989] {processor.py:163} INFO - Started process (PID=11017) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 22:08:20,991] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 22:08:20,993] {logging_mixin.py:109} INFO - [2023-01-24 22:08:20,993] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:08:21,690] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:08:21,701] {logging_mixin.py:109} INFO - [2023-01-24 22:08:21,701] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 22:08:21,716] {logging_mixin.py:109} INFO - [2023-01-24 22:08:21,716] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T22:08:21.716171+00:00
+[2023-01-24 22:08:21,738] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.754 seconds
+[2023-01-24 22:08:51,942] {processor.py:163} INFO - Started process (PID=11085) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 22:08:51,950] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 22:08:51,955] {logging_mixin.py:109} INFO - [2023-01-24 22:08:51,954] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:08:53,941] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:08:53,992] {logging_mixin.py:109} INFO - [2023-01-24 22:08:53,990] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 22:08:54,048] {logging_mixin.py:109} INFO - [2023-01-24 22:08:54,048] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T22:08:54.047389+00:00
+[2023-01-24 22:08:54,083] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 2.157 seconds
+[2023-01-24 22:24:21,759] {processor.py:163} INFO - Started process (PID=11155) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 22:24:21,762] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 22:24:21,765] {logging_mixin.py:109} INFO - [2023-01-24 22:24:21,764] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:24:22,460] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:24:22,476] {logging_mixin.py:109} INFO - [2023-01-24 22:24:22,476] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 22:24:22,491] {logging_mixin.py:109} INFO - [2023-01-24 22:24:22,491] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T22:24:22.490824+00:00
+[2023-01-24 22:24:22,500] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.747 seconds
+[2023-01-24 22:24:53,055] {processor.py:163} INFO - Started process (PID=11232) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 22:24:53,063] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 22:24:53,069] {logging_mixin.py:109} INFO - [2023-01-24 22:24:53,068] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:24:55,035] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:24:55,083] {logging_mixin.py:109} INFO - [2023-01-24 22:24:55,080] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 22:24:55,160] {logging_mixin.py:109} INFO - [2023-01-24 22:24:55,159] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T22:24:55.158939+00:00
+[2023-01-24 22:24:55,202] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 2.167 seconds
+[2023-01-24 22:25:25,793] {processor.py:163} INFO - Started process (PID=11309) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 22:25:25,802] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 22:25:25,807] {logging_mixin.py:109} INFO - [2023-01-24 22:25:25,806] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:25:27,802] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:25:27,846] {logging_mixin.py:109} INFO - [2023-01-24 22:25:27,844] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 22:25:28,080] {logging_mixin.py:109} INFO - [2023-01-24 22:25:28,080] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T22:25:28.079487+00:00
+[2023-01-24 22:25:28,113] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 2.340 seconds
+[2023-01-24 22:25:58,545] {processor.py:163} INFO - Started process (PID=11386) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 22:25:58,562] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 22:25:58,567] {logging_mixin.py:109} INFO - [2023-01-24 22:25:58,567] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:26:00,498] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:26:00,550] {logging_mixin.py:109} INFO - [2023-01-24 22:26:00,549] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 22:26:00,628] {logging_mixin.py:109} INFO - [2023-01-24 22:26:00,628] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T22:26:00.627139+00:00
+[2023-01-24 22:26:00,667] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 2.152 seconds
+[2023-01-24 22:26:31,162] {processor.py:163} INFO - Started process (PID=11454) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 22:26:31,171] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 22:26:31,176] {logging_mixin.py:109} INFO - [2023-01-24 22:26:31,176] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:26:33,457] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:26:33,501] {logging_mixin.py:109} INFO - [2023-01-24 22:26:33,499] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 22:26:33,558] {logging_mixin.py:109} INFO - [2023-01-24 22:26:33,557] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T22:26:33.556712+00:00
+[2023-01-24 22:26:33,592] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 2.458 seconds
+[2023-01-24 22:27:04,087] {processor.py:163} INFO - Started process (PID=11522) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 22:27:04,096] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 22:27:04,103] {logging_mixin.py:109} INFO - [2023-01-24 22:27:04,102] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:27:06,068] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:27:06,127] {logging_mixin.py:109} INFO - [2023-01-24 22:27:06,125] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 22:27:06,193] {logging_mixin.py:109} INFO - [2023-01-24 22:27:06,193] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T22:27:06.192164+00:00
+[2023-01-24 22:27:06,228] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 2.158 seconds
+[2023-01-24 22:27:36,768] {processor.py:163} INFO - Started process (PID=11588) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 22:27:36,775] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 22:27:36,779] {logging_mixin.py:109} INFO - [2023-01-24 22:27:36,779] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:27:38,380] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:27:38,424] {logging_mixin.py:109} INFO - [2023-01-24 22:27:38,422] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 22:27:38,476] {logging_mixin.py:109} INFO - [2023-01-24 22:27:38,475] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T22:27:38.475222+00:00
+[2023-01-24 22:27:38,510] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.755 seconds
+[2023-01-24 22:28:08,680] {processor.py:163} INFO - Started process (PID=11665) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 22:28:08,686] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 22:28:08,691] {logging_mixin.py:109} INFO - [2023-01-24 22:28:08,690] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:28:10,325] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:28:10,366] {logging_mixin.py:109} INFO - [2023-01-24 22:28:10,364] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 22:28:10,412] {logging_mixin.py:109} INFO - [2023-01-24 22:28:10,412] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T22:28:10.411515+00:00
+[2023-01-24 22:28:10,438] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.773 seconds
+[2023-01-24 22:28:40,700] {processor.py:163} INFO - Started process (PID=11733) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 22:28:40,706] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 22:28:40,709] {logging_mixin.py:109} INFO - [2023-01-24 22:28:40,709] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:28:41,981] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:28:42,016] {logging_mixin.py:109} INFO - [2023-01-24 22:28:42,015] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 22:28:42,060] {logging_mixin.py:109} INFO - [2023-01-24 22:28:42,060] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T22:28:42.059664+00:00
+[2023-01-24 22:28:42,087] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.398 seconds
+[2023-01-24 22:29:12,272] {processor.py:163} INFO - Started process (PID=11810) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 22:29:12,278] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 22:29:12,281] {logging_mixin.py:109} INFO - [2023-01-24 22:29:12,281] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:29:13,352] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:29:13,377] {logging_mixin.py:109} INFO - [2023-01-24 22:29:13,376] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 22:29:13,407] {logging_mixin.py:109} INFO - [2023-01-24 22:29:13,407] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T22:29:13.407162+00:00
+[2023-01-24 22:29:13,425] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.163 seconds
+[2023-01-24 22:29:43,535] {processor.py:163} INFO - Started process (PID=11887) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 22:29:43,540] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 22:29:43,543] {logging_mixin.py:109} INFO - [2023-01-24 22:29:43,543] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:29:44,552] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:29:44,577] {logging_mixin.py:109} INFO - [2023-01-24 22:29:44,576] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 22:29:44,605] {logging_mixin.py:109} INFO - [2023-01-24 22:29:44,605] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T22:29:44.604758+00:00
+[2023-01-24 22:29:44,624] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.098 seconds
+[2023-01-24 22:45:27,746] {processor.py:163} INFO - Started process (PID=11944) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 22:45:27,759] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 22:45:27,792] {logging_mixin.py:109} INFO - [2023-01-24 22:45:27,791] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:45:28,591] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:45:28,601] {logging_mixin.py:109} INFO - [2023-01-24 22:45:28,601] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 22:45:28,615] {logging_mixin.py:109} INFO - [2023-01-24 22:45:28,615] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T22:45:28.614843+00:00
+[2023-01-24 22:45:28,631] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.892 seconds
+[2023-01-24 22:45:59,193] {processor.py:163} INFO - Started process (PID=12021) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 22:45:59,201] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 22:45:59,208] {logging_mixin.py:109} INFO - [2023-01-24 22:45:59,207] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:46:01,245] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 22:46:01,291] {logging_mixin.py:109} INFO - [2023-01-24 22:46:01,289] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 22:46:01,346] {logging_mixin.py:109} INFO - [2023-01-24 22:46:01,346] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T22:46:01.345602+00:00
+[2023-01-24 22:46:01,381] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 2.211 seconds
+[2023-01-24 23:01:42,661] {processor.py:163} INFO - Started process (PID=12087) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 23:01:42,665] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 23:01:42,666] {logging_mixin.py:109} INFO - [2023-01-24 23:01:42,666] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 23:01:43,688] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 23:01:43,698] {logging_mixin.py:109} INFO - [2023-01-24 23:01:43,698] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 23:01:43,719] {logging_mixin.py:109} INFO - [2023-01-24 23:01:43,719] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T23:01:43.719054+00:00
+[2023-01-24 23:01:43,727] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.072 seconds
+[2023-01-24 23:02:14,109] {processor.py:163} INFO - Started process (PID=12157) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 23:02:14,119] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 23:02:14,127] {logging_mixin.py:109} INFO - [2023-01-24 23:02:14,126] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 23:02:16,038] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 23:02:16,092] {logging_mixin.py:109} INFO - [2023-01-24 23:02:16,090] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 23:02:16,147] {logging_mixin.py:109} INFO - [2023-01-24 23:02:16,146] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T23:02:16.145741+00:00
+[2023-01-24 23:02:16,181] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 2.102 seconds
+[2023-01-24 23:17:58,218] {processor.py:163} INFO - Started process (PID=12243) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 23:17:58,221] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 23:17:58,223] {logging_mixin.py:109} INFO - [2023-01-24 23:17:58,222] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 23:17:58,800] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 23:17:58,830] {logging_mixin.py:109} INFO - [2023-01-24 23:17:58,828] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 23:17:58,859] {logging_mixin.py:109} INFO - [2023-01-24 23:17:58,859] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T23:17:58.858815+00:00
+[2023-01-24 23:17:58,875] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.664 seconds
+[2023-01-24 23:18:29,110] {processor.py:163} INFO - Started process (PID=12311) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 23:18:29,119] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 23:18:29,127] {logging_mixin.py:109} INFO - [2023-01-24 23:18:29,126] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 23:18:30,998] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 23:18:31,040] {logging_mixin.py:109} INFO - [2023-01-24 23:18:31,038] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 23:18:31,101] {logging_mixin.py:109} INFO - [2023-01-24 23:18:31,101] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T23:18:31.100751+00:00
+[2023-01-24 23:18:31,159] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 2.072 seconds
+[2023-01-24 23:25:17,798] {processor.py:163} INFO - Started process (PID=12402) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 23:25:17,800] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 23:25:17,802] {logging_mixin.py:109} INFO - [2023-01-24 23:25:17,802] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 23:25:18,352] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 23:25:18,365] {logging_mixin.py:109} INFO - [2023-01-24 23:25:18,364] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 23:25:18,381] {logging_mixin.py:109} INFO - [2023-01-24 23:25:18,381] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T23:25:18.381270+00:00
+[2023-01-24 23:25:18,392] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 0.598 seconds
+[2023-01-24 23:25:48,643] {processor.py:163} INFO - Started process (PID=12470) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 23:25:48,651] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 23:25:48,657] {logging_mixin.py:109} INFO - [2023-01-24 23:25:48,656] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 23:25:50,799] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 23:25:50,857] {logging_mixin.py:109} INFO - [2023-01-24 23:25:50,855] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 23:25:50,919] {logging_mixin.py:109} INFO - [2023-01-24 23:25:50,919] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T23:25:50.918232+00:00
+[2023-01-24 23:25:50,955] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 2.333 seconds
+[2023-01-24 23:41:47,529] {processor.py:163} INFO - Started process (PID=12545) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 23:41:47,533] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 23:41:47,535] {logging_mixin.py:109} INFO - [2023-01-24 23:41:47,535] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 23:41:48,497] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 23:41:48,512] {logging_mixin.py:109} INFO - [2023-01-24 23:41:48,511] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 23:41:48,530] {logging_mixin.py:109} INFO - [2023-01-24 23:41:48,530] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T23:41:48.530179+00:00
+[2023-01-24 23:41:48,542] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 1.027 seconds
+[2023-01-24 23:42:18,688] {processor.py:163} INFO - Started process (PID=12615) to work on /opt/airflow/dags/complex_music.py
+[2023-01-24 23:42:18,696] {processor.py:642} INFO - Processing file /opt/airflow/dags/complex_music.py for tasks to queue
+[2023-01-24 23:42:18,701] {logging_mixin.py:109} INFO - [2023-01-24 23:42:18,701] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/complex_music.py
+[2023-01-24 23:42:20,756] {processor.py:654} INFO - DAG(s) dict_keys(['complex_music']) retrieved from /opt/airflow/dags/complex_music.py
+[2023-01-24 23:42:20,803] {logging_mixin.py:109} INFO - [2023-01-24 23:42:20,801] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-24 23:42:20,859] {logging_mixin.py:109} INFO - [2023-01-24 23:42:20,858] {dag.py:2935} INFO - Setting next_dagrun for complex_music to 2023-01-23T23:42:20.857905+00:00
+[2023-01-24 23:42:20,899] {processor.py:171} INFO - Processing /opt/airflow/dags/complex_music.py took 2.228 seconds

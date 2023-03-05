@@ -1,0 +1,26 @@
+[2023-01-28 15:29:15,755] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: data_ingestion_local_gcs_GroupID09.create_dataset manual__2023-01-28T15:29:11.196970+00:00 [queued]>
+[2023-01-28 15:29:15,768] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: data_ingestion_local_gcs_GroupID09.create_dataset manual__2023-01-28T15:29:11.196970+00:00 [queued]>
+[2023-01-28 15:29:15,769] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2023-01-28 15:29:15,769] {taskinstance.py:1239} INFO - Starting attempt 1 of 1
+[2023-01-28 15:29:15,770] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2023-01-28 15:29:15,782] {taskinstance.py:1259} INFO - Executing <Task(BigQueryCreateEmptyDatasetOperator): create_dataset> on 2023-01-28 15:29:11.196970+00:00
+[2023-01-28 15:29:15,790] {standard_task_runner.py:52} INFO - Started process 1009 to run task
+[2023-01-28 15:29:15,795] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'data_ingestion_local_gcs_GroupID09', 'create_dataset', 'manual__2023-01-28T15:29:11.196970+00:00', '--job-id', '4', '--raw', '--subdir', 'DAGS_FOLDER/data_ingestion_local_gcs_GroupIDNo09.py', '--cfg-path', '/tmp/tmpjy5x6ee3', '--error-file', '/tmp/tmpgbw3msg6']
+[2023-01-28 15:29:15,796] {standard_task_runner.py:77} INFO - Job 4: Subtask create_dataset
+[2023-01-28 15:29:15,861] {logging_mixin.py:109} INFO - Running <TaskInstance: data_ingestion_local_gcs_GroupID09.create_dataset manual__2023-01-28T15:29:11.196970+00:00 [running]> on host 09487faf912f
+[2023-01-28 15:29:15,920] {taskinstance.py:1426} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=data_ingestion_local_gcs_GroupID09
+AIRFLOW_CTX_TASK_ID=create_dataset
+AIRFLOW_CTX_EXECUTION_DATE=2023-01-28T15:29:11.196970+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-01-28T15:29:11.196970+00:00
+[2023-01-28 15:29:15,923] {crypto.py:82} WARNING - empty cryptography key - values will not be stored encrypted.
+[2023-01-28 15:29:15,933] {bigquery.py:458} INFO - datasetId was not specified in `dataset_reference`. Will use default value amazon_data.
+[2023-01-28 15:29:15,934] {bigquery.py:458} INFO - projectId was not specified in `dataset_reference`. Will use default value opportune-balm-376017.
+[2023-01-28 15:29:15,935] {bigquery.py:467} INFO - Creating dataset: amazon_data in project: opportune-balm-376017 
+[2023-01-28 15:29:17,666] {bigquery.py:469} INFO - Dataset created successfully.
+[2023-01-28 15:29:17,679] {taskinstance.py:1277} INFO - Marking task as SUCCESS. dag_id=data_ingestion_local_gcs_GroupID09, task_id=create_dataset, execution_date=20230128T152911, start_date=20230128T152915, end_date=20230128T152917
+[2023-01-28 15:29:17,746] {local_task_job.py:154} INFO - Task exited with return code 0
+[2023-01-28 15:29:17,788] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,90 @@
+[2023-01-27 14:42:32,513] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: data_ingestion_local_gcs_GroupID06.create_dataset manual__2023-01-27T14:42:27.982126+00:00 [queued]>
+[2023-01-27 14:42:32,525] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: data_ingestion_local_gcs_GroupID06.create_dataset manual__2023-01-27T14:42:27.982126+00:00 [queued]>
+[2023-01-27 14:42:32,526] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2023-01-27 14:42:32,527] {taskinstance.py:1239} INFO - Starting attempt 1 of 1
+[2023-01-27 14:42:32,528] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2023-01-27 14:42:32,539] {taskinstance.py:1259} INFO - Executing <Task(BigQueryCreateEmptyDatasetOperator): create_dataset> on 2023-01-27 14:42:27.982126+00:00
+[2023-01-27 14:42:32,549] {standard_task_runner.py:52} INFO - Started process 3488 to run task
+[2023-01-27 14:42:32,553] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'data_ingestion_local_gcs_GroupID06', 'create_dataset', 'manual__2023-01-27T14:42:27.982126+00:00', '--job-id', '2', '--raw', '--subdir', 'DAGS_FOLDER/data_ingestion_local_gcs_GroupID06.py', '--cfg-path', '/tmp/tmp7v28acjk', '--error-file', '/tmp/tmpuffvlt_i']
+[2023-01-27 14:42:32,554] {standard_task_runner.py:77} INFO - Job 2: Subtask create_dataset
+[2023-01-27 14:42:32,620] {logging_mixin.py:109} INFO - Running <TaskInstance: data_ingestion_local_gcs_GroupID06.create_dataset manual__2023-01-27T14:42:27.982126+00:00 [running]> on host f0a3276fded1
+[2023-01-27 14:42:32,689] {taskinstance.py:1426} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=data_ingestion_local_gcs_GroupID06
+AIRFLOW_CTX_TASK_ID=create_dataset
+AIRFLOW_CTX_EXECUTION_DATE=2023-01-27T14:42:27.982126+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-01-27T14:42:27.982126+00:00
+[2023-01-27 14:42:32,692] {crypto.py:82} WARNING - empty cryptography key - values will not be stored encrypted.
+[2023-01-27 14:42:32,694] {taskinstance.py:1700} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1329, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1455, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1511, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/google/cloud/operators/bigquery.py", line 1437, in execute
+    exists_ok=self.exists_ok,
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/google/common/hooks/base_google.py", line 421, in inner_wrapper
+    kwargs['project_id'] = kwargs['project_id'] or self.project_id
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/google/common/hooks/base_google.py", line 312, in project_id
+    _, project_id = self._get_credentials_and_project_id()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/google/common/hooks/base_google.py", line 242, in _get_credentials_and_project_id
+    delegates=delegates,
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/google/cloud/utils/credentials_provider.py", line 335, in get_credentials_and_project_id
+    return _CredentialProvider(*args, **kwargs).get_credentials_and_project()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/google/cloud/utils/credentials_provider.py", line 237, in get_credentials_and_project
+    credentials, project_id = self._get_credentials_using_key_path()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/google/cloud/utils/credentials_provider.py", line 287, in _get_credentials_using_key_path
+    self.key_path, scopes=self.scopes
+  File "/home/airflow/.local/lib/python3.7/site-packages/google/oauth2/service_account.py", line 239, in from_service_account_file
+    filename, require=["client_email", "token_uri"]
+  File "/home/airflow/.local/lib/python3.7/site-packages/google/auth/_service_account_info.py", line 72, in from_filename
+    with io.open(filename, "r", encoding="utf-8") as json_file:
+FileNotFoundError: [Errno 2] No such file or directory: '/opt/airflow/avid-reference-366313-14ac15a09043.json'
+[2023-01-27 14:42:32,711] {taskinstance.py:1277} INFO - Marking task as FAILED. dag_id=data_ingestion_local_gcs_GroupID06, task_id=create_dataset, execution_date=20230127T144227, start_date=20230127T144232, end_date=20230127T144232
+[2023-01-27 14:42:32,725] {standard_task_runner.py:92} ERROR - Failed to execute job 2 for task create_dataset
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/task/task_runner/standard_task_runner.py", line 85, in _start_by_fork
+    args.func(args, dag=self.dag)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/cli/cli_parser.py", line 48, in command
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/cli.py", line 92, in wrapper
+    return f(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/cli/commands/task_command.py", line 298, in task_run
+    _run_task_by_selected_method(args, dag, ti)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/cli/commands/task_command.py", line 107, in _run_task_by_selected_method
+    _run_raw_task(args, ti)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/cli/commands/task_command.py", line 184, in _run_raw_task
+    error_file=args.error_file,
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1329, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1455, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1511, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/google/cloud/operators/bigquery.py", line 1437, in execute
+    exists_ok=self.exists_ok,
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/google/common/hooks/base_google.py", line 421, in inner_wrapper
+    kwargs['project_id'] = kwargs['project_id'] or self.project_id
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/google/common/hooks/base_google.py", line 312, in project_id
+    _, project_id = self._get_credentials_and_project_id()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/google/common/hooks/base_google.py", line 242, in _get_credentials_and_project_id
+    delegates=delegates,
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/google/cloud/utils/credentials_provider.py", line 335, in get_credentials_and_project_id
+    return _CredentialProvider(*args, **kwargs).get_credentials_and_project()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/google/cloud/utils/credentials_provider.py", line 237, in get_credentials_and_project
+    credentials, project_id = self._get_credentials_using_key_path()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/google/cloud/utils/credentials_provider.py", line 287, in _get_credentials_using_key_path
+    self.key_path, scopes=self.scopes
+  File "/home/airflow/.local/lib/python3.7/site-packages/google/oauth2/service_account.py", line 239, in from_service_account_file
+    filename, require=["client_email", "token_uri"]
+  File "/home/airflow/.local/lib/python3.7/site-packages/google/auth/_service_account_info.py", line 72, in from_filename
+    with io.open(filename, "r", encoding="utf-8") as json_file:
+FileNotFoundError: [Errno 2] No such file or directory: '/opt/airflow/avid-reference-366313-14ac15a09043.json'
+[2023-01-27 14:42:32,765] {local_task_job.py:154} INFO - Task exited with return code 1
+[2023-01-27 14:42:32,813] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

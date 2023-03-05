@@ -1,0 +1,1067 @@
+[2023-01-26 16:16:52,962] {processor.py:163} INFO - Started process (PID=3313) to work on /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 16:16:52,966] {processor.py:642} INFO - Processing file /opt/airflow/dags/data_ingestion_local_gcs_GP15.py for tasks to queue
+[2023-01-26 16:16:52,969] {logging_mixin.py:109} INFO - [2023-01-26 16:16:52,969] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 16:16:57,609] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_local_gcs_GP15']) retrieved from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 16:16:59,087] {logging_mixin.py:109} INFO - [2023-01-26 16:16:59,087] {manager.py:496} INFO - Created Permission View: can edit on DAG:data_ingestion_local_gcs_GP15
+[2023-01-26 16:16:59,095] {logging_mixin.py:109} INFO - [2023-01-26 16:16:59,095] {manager.py:496} INFO - Created Permission View: can read on DAG:data_ingestion_local_gcs_GP15
+[2023-01-26 16:16:59,096] {logging_mixin.py:109} INFO - [2023-01-26 16:16:59,096] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-26 16:16:59,104] {logging_mixin.py:109} INFO - [2023-01-26 16:16:59,104] {dag.py:2415} INFO - Creating ORM DAG for data_ingestion_local_gcs_GP15
+[2023-01-26 16:16:59,113] {logging_mixin.py:109} INFO - [2023-01-26 16:16:59,113] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_local_gcs_GP15 to None
+[2023-01-26 16:16:59,125] {processor.py:171} INFO - Processing /opt/airflow/dags/data_ingestion_local_gcs_GP15.py took 6.192 seconds
+[2023-01-26 16:21:12,112] {processor.py:163} INFO - Started process (PID=4021) to work on /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 16:21:12,115] {processor.py:642} INFO - Processing file /opt/airflow/dags/data_ingestion_local_gcs_GP15.py for tasks to queue
+[2023-01-26 16:21:12,116] {logging_mixin.py:109} INFO - [2023-01-26 16:21:12,116] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 16:21:14,517] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_local_gcs_GP15']) retrieved from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 16:21:14,526] {logging_mixin.py:109} INFO - [2023-01-26 16:21:14,526] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-26 16:21:14,541] {logging_mixin.py:109} INFO - [2023-01-26 16:21:14,541] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_local_gcs_GP15 to None
+[2023-01-26 16:21:14,549] {processor.py:171} INFO - Processing /opt/airflow/dags/data_ingestion_local_gcs_GP15.py took 2.440 seconds
+[2023-01-26 18:22:01,772] {processor.py:163} INFO - Started process (PID=35902) to work on /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:22:01,774] {processor.py:642} INFO - Processing file /opt/airflow/dags/data_ingestion_local_gcs_GP15.py for tasks to queue
+[2023-01-26 18:22:01,775] {logging_mixin.py:109} INFO - [2023-01-26 18:22:01,775] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:22:04,085] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_local_gcs_GP15']) retrieved from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:22:04,361] {logging_mixin.py:109} INFO - [2023-01-26 18:22:04,361] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-26 18:22:04,374] {logging_mixin.py:109} INFO - [2023-01-26 18:22:04,373] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_local_gcs_GP15 to None
+[2023-01-26 18:22:04,390] {processor.py:171} INFO - Processing /opt/airflow/dags/data_ingestion_local_gcs_GP15.py took 2.622 seconds
+[2023-01-26 18:22:06,808] {processor.py:163} INFO - Started process (PID=35944) to work on /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:22:06,810] {processor.py:642} INFO - Processing file /opt/airflow/dags/data_ingestion_local_gcs_GP15.py for tasks to queue
+[2023-01-26 18:22:06,811] {logging_mixin.py:109} INFO - [2023-01-26 18:22:06,811] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:22:09,057] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_local_gcs_GP15']) retrieved from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:22:09,088] {processor.py:584} ERROR - Error executing TaskCallbackRequest callback for file: /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedColumn: column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 575, in execute_callbacks
+    self._execute_task_callbacks(dagbag, request)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 607, in _execute_task_callbacks
+    ti.handle_failure_with_callback(error=request.msg, test_mode=self.UNIT_TEST_MODE)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1765, in handle_failure_with_callback
+    self.handle_failure(error=error, test_mode=test_mode, force_fail=force_fail, session=session)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 67, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1755, in handle_failure
+    session.flush()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2540, in flush
+    self._flush(objects)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2682, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    with_traceback=exc_tb,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2642, in _flush
+    flush_context.execute()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 422, in execute
+    rec.execute(self)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 589, in execute
+    uow,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 245, in save_obj
+    insert,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 1136, in _emit_insert_statements
+    statement, params
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1130, in _execute_clauseelement
+    distilled_params,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1317, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1511, in _handle_dbapi_exception
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedColumn) column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+[SQL: INSERT INTO task_fail (task_id, dag_id, execution_date, start_date, end_date, duration) VALUES (%(task_id)s, %(dag_id)s, %(execution_date)s, %(start_date)s, %(end_date)s, %(duration)s) RETURNING task_fail.id]
+[parameters: {'task_id': 'create_dataset', 'dag_id': 'data_ingestion_local_gcs_GP15', 'execution_date': datetime.datetime(2023, 1, 26, 16, 31, 11, 435423, tzinfo=Timezone('UTC')), 'start_date': datetime.datetime(2023, 1, 26, 16, 31, 16, 261544, tzinfo=Timezone('UTC')), 'end_date': datetime.datetime(2023, 1, 26, 18, 22, 9, 74498, tzinfo=Timezone('UTC')), 'duration': 6652}]
+(Background on this error at: http://sqlalche.me/e/13/f405)
+[2023-01-26 18:22:09,097] {logging_mixin.py:109} INFO - [2023-01-26 18:22:09,097] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-26 18:22:09,110] {logging_mixin.py:109} INFO - [2023-01-26 18:22:09,110] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_local_gcs_GP15 to None
+[2023-01-26 18:22:09,118] {processor.py:171} INFO - Processing /opt/airflow/dags/data_ingestion_local_gcs_GP15.py took 2.314 seconds
+[2023-01-26 18:22:17,412] {processor.py:163} INFO - Started process (PID=36019) to work on /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:22:17,413] {processor.py:642} INFO - Processing file /opt/airflow/dags/data_ingestion_local_gcs_GP15.py for tasks to queue
+[2023-01-26 18:22:17,414] {logging_mixin.py:109} INFO - [2023-01-26 18:22:17,414] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:22:19,572] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_local_gcs_GP15']) retrieved from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:22:19,599] {processor.py:584} ERROR - Error executing TaskCallbackRequest callback for file: /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedColumn: column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 575, in execute_callbacks
+    self._execute_task_callbacks(dagbag, request)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 607, in _execute_task_callbacks
+    ti.handle_failure_with_callback(error=request.msg, test_mode=self.UNIT_TEST_MODE)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1765, in handle_failure_with_callback
+    self.handle_failure(error=error, test_mode=test_mode, force_fail=force_fail, session=session)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 67, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1755, in handle_failure
+    session.flush()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2540, in flush
+    self._flush(objects)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2682, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    with_traceback=exc_tb,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2642, in _flush
+    flush_context.execute()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 422, in execute
+    rec.execute(self)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 589, in execute
+    uow,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 245, in save_obj
+    insert,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 1136, in _emit_insert_statements
+    statement, params
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1130, in _execute_clauseelement
+    distilled_params,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1317, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1511, in _handle_dbapi_exception
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedColumn) column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+[SQL: INSERT INTO task_fail (task_id, dag_id, execution_date, start_date, end_date, duration) VALUES (%(task_id)s, %(dag_id)s, %(execution_date)s, %(start_date)s, %(end_date)s, %(duration)s) RETURNING task_fail.id]
+[parameters: {'task_id': 'create_dataset', 'dag_id': 'data_ingestion_local_gcs_GP15', 'execution_date': datetime.datetime(2023, 1, 26, 16, 31, 11, 435423, tzinfo=Timezone('UTC')), 'start_date': datetime.datetime(2023, 1, 26, 16, 31, 16, 261544, tzinfo=Timezone('UTC')), 'end_date': datetime.datetime(2023, 1, 26, 18, 22, 19, 587635, tzinfo=Timezone('UTC')), 'duration': 6663}]
+(Background on this error at: http://sqlalche.me/e/13/f405)
+[2023-01-26 18:22:19,608] {logging_mixin.py:109} INFO - [2023-01-26 18:22:19,607] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-26 18:22:19,618] {logging_mixin.py:109} INFO - [2023-01-26 18:22:19,618] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_local_gcs_GP15 to None
+[2023-01-26 18:22:19,625] {processor.py:171} INFO - Processing /opt/airflow/dags/data_ingestion_local_gcs_GP15.py took 2.216 seconds
+[2023-01-26 18:22:27,670] {processor.py:163} INFO - Started process (PID=36048) to work on /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:22:27,672] {processor.py:642} INFO - Processing file /opt/airflow/dags/data_ingestion_local_gcs_GP15.py for tasks to queue
+[2023-01-26 18:22:27,673] {logging_mixin.py:109} INFO - [2023-01-26 18:22:27,673] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:22:30,027] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_local_gcs_GP15']) retrieved from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:22:30,062] {processor.py:584} ERROR - Error executing TaskCallbackRequest callback for file: /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedColumn: column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 575, in execute_callbacks
+    self._execute_task_callbacks(dagbag, request)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 607, in _execute_task_callbacks
+    ti.handle_failure_with_callback(error=request.msg, test_mode=self.UNIT_TEST_MODE)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1765, in handle_failure_with_callback
+    self.handle_failure(error=error, test_mode=test_mode, force_fail=force_fail, session=session)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 67, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1755, in handle_failure
+    session.flush()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2540, in flush
+    self._flush(objects)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2682, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    with_traceback=exc_tb,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2642, in _flush
+    flush_context.execute()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 422, in execute
+    rec.execute(self)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 589, in execute
+    uow,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 245, in save_obj
+    insert,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 1136, in _emit_insert_statements
+    statement, params
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1130, in _execute_clauseelement
+    distilled_params,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1317, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1511, in _handle_dbapi_exception
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedColumn) column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+[SQL: INSERT INTO task_fail (task_id, dag_id, execution_date, start_date, end_date, duration) VALUES (%(task_id)s, %(dag_id)s, %(execution_date)s, %(start_date)s, %(end_date)s, %(duration)s) RETURNING task_fail.id]
+[parameters: {'task_id': 'create_dataset', 'dag_id': 'data_ingestion_local_gcs_GP15', 'execution_date': datetime.datetime(2023, 1, 26, 16, 31, 11, 435423, tzinfo=Timezone('UTC')), 'start_date': datetime.datetime(2023, 1, 26, 16, 31, 16, 261544, tzinfo=Timezone('UTC')), 'end_date': datetime.datetime(2023, 1, 26, 18, 22, 30, 47132, tzinfo=Timezone('UTC')), 'duration': 6673}]
+(Background on this error at: http://sqlalche.me/e/13/f405)
+[2023-01-26 18:22:30,073] {logging_mixin.py:109} INFO - [2023-01-26 18:22:30,073] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-26 18:22:30,090] {logging_mixin.py:109} INFO - [2023-01-26 18:22:30,089] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_local_gcs_GP15 to None
+[2023-01-26 18:22:30,100] {processor.py:171} INFO - Processing /opt/airflow/dags/data_ingestion_local_gcs_GP15.py took 2.433 seconds
+[2023-01-26 18:22:38,200] {processor.py:163} INFO - Started process (PID=36081) to work on /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:22:38,201] {processor.py:642} INFO - Processing file /opt/airflow/dags/data_ingestion_local_gcs_GP15.py for tasks to queue
+[2023-01-26 18:22:38,203] {logging_mixin.py:109} INFO - [2023-01-26 18:22:38,202] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:22:40,408] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_local_gcs_GP15']) retrieved from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:22:40,436] {processor.py:584} ERROR - Error executing TaskCallbackRequest callback for file: /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedColumn: column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 575, in execute_callbacks
+    self._execute_task_callbacks(dagbag, request)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 607, in _execute_task_callbacks
+    ti.handle_failure_with_callback(error=request.msg, test_mode=self.UNIT_TEST_MODE)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1765, in handle_failure_with_callback
+    self.handle_failure(error=error, test_mode=test_mode, force_fail=force_fail, session=session)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 67, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1755, in handle_failure
+    session.flush()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2540, in flush
+    self._flush(objects)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2682, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    with_traceback=exc_tb,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2642, in _flush
+    flush_context.execute()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 422, in execute
+    rec.execute(self)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 589, in execute
+    uow,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 245, in save_obj
+    insert,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 1136, in _emit_insert_statements
+    statement, params
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1130, in _execute_clauseelement
+    distilled_params,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1317, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1511, in _handle_dbapi_exception
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedColumn) column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+[SQL: INSERT INTO task_fail (task_id, dag_id, execution_date, start_date, end_date, duration) VALUES (%(task_id)s, %(dag_id)s, %(execution_date)s, %(start_date)s, %(end_date)s, %(duration)s) RETURNING task_fail.id]
+[parameters: {'task_id': 'create_dataset', 'dag_id': 'data_ingestion_local_gcs_GP15', 'execution_date': datetime.datetime(2023, 1, 26, 16, 31, 11, 435423, tzinfo=Timezone('UTC')), 'start_date': datetime.datetime(2023, 1, 26, 16, 31, 16, 261544, tzinfo=Timezone('UTC')), 'end_date': datetime.datetime(2023, 1, 26, 18, 22, 40, 424313, tzinfo=Timezone('UTC')), 'duration': 6684}]
+(Background on this error at: http://sqlalche.me/e/13/f405)
+[2023-01-26 18:22:40,451] {logging_mixin.py:109} INFO - [2023-01-26 18:22:40,451] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-26 18:22:40,464] {logging_mixin.py:109} INFO - [2023-01-26 18:22:40,464] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_local_gcs_GP15 to None
+[2023-01-26 18:22:40,472] {processor.py:171} INFO - Processing /opt/airflow/dags/data_ingestion_local_gcs_GP15.py took 2.277 seconds
+[2023-01-26 18:22:48,554] {processor.py:163} INFO - Started process (PID=36156) to work on /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:22:48,556] {processor.py:642} INFO - Processing file /opt/airflow/dags/data_ingestion_local_gcs_GP15.py for tasks to queue
+[2023-01-26 18:22:48,557] {logging_mixin.py:109} INFO - [2023-01-26 18:22:48,557] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:22:50,756] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_local_gcs_GP15']) retrieved from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:22:50,784] {processor.py:584} ERROR - Error executing TaskCallbackRequest callback for file: /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedColumn: column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 575, in execute_callbacks
+    self._execute_task_callbacks(dagbag, request)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 607, in _execute_task_callbacks
+    ti.handle_failure_with_callback(error=request.msg, test_mode=self.UNIT_TEST_MODE)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1765, in handle_failure_with_callback
+    self.handle_failure(error=error, test_mode=test_mode, force_fail=force_fail, session=session)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 67, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1755, in handle_failure
+    session.flush()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2540, in flush
+    self._flush(objects)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2682, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    with_traceback=exc_tb,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2642, in _flush
+    flush_context.execute()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 422, in execute
+    rec.execute(self)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 589, in execute
+    uow,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 245, in save_obj
+    insert,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 1136, in _emit_insert_statements
+    statement, params
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1130, in _execute_clauseelement
+    distilled_params,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1317, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1511, in _handle_dbapi_exception
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedColumn) column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+[SQL: INSERT INTO task_fail (task_id, dag_id, execution_date, start_date, end_date, duration) VALUES (%(task_id)s, %(dag_id)s, %(execution_date)s, %(start_date)s, %(end_date)s, %(duration)s) RETURNING task_fail.id]
+[parameters: {'task_id': 'create_dataset', 'dag_id': 'data_ingestion_local_gcs_GP15', 'execution_date': datetime.datetime(2023, 1, 26, 16, 31, 11, 435423, tzinfo=Timezone('UTC')), 'start_date': datetime.datetime(2023, 1, 26, 16, 31, 16, 261544, tzinfo=Timezone('UTC')), 'end_date': datetime.datetime(2023, 1, 26, 18, 22, 50, 772999, tzinfo=Timezone('UTC')), 'duration': 6694}]
+(Background on this error at: http://sqlalche.me/e/13/f405)
+[2023-01-26 18:22:50,800] {logging_mixin.py:109} INFO - [2023-01-26 18:22:50,800] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-26 18:22:50,815] {logging_mixin.py:109} INFO - [2023-01-26 18:22:50,815] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_local_gcs_GP15 to None
+[2023-01-26 18:22:50,823] {processor.py:171} INFO - Processing /opt/airflow/dags/data_ingestion_local_gcs_GP15.py took 2.274 seconds
+[2023-01-26 18:22:58,563] {processor.py:163} INFO - Started process (PID=36185) to work on /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:22:58,564] {processor.py:642} INFO - Processing file /opt/airflow/dags/data_ingestion_local_gcs_GP15.py for tasks to queue
+[2023-01-26 18:22:58,566] {logging_mixin.py:109} INFO - [2023-01-26 18:22:58,565] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:23:00,618] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_local_gcs_GP15']) retrieved from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:23:00,645] {processor.py:584} ERROR - Error executing TaskCallbackRequest callback for file: /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedColumn: column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 575, in execute_callbacks
+    self._execute_task_callbacks(dagbag, request)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 607, in _execute_task_callbacks
+    ti.handle_failure_with_callback(error=request.msg, test_mode=self.UNIT_TEST_MODE)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1765, in handle_failure_with_callback
+    self.handle_failure(error=error, test_mode=test_mode, force_fail=force_fail, session=session)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 67, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1755, in handle_failure
+    session.flush()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2540, in flush
+    self._flush(objects)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2682, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    with_traceback=exc_tb,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2642, in _flush
+    flush_context.execute()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 422, in execute
+    rec.execute(self)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 589, in execute
+    uow,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 245, in save_obj
+    insert,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 1136, in _emit_insert_statements
+    statement, params
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1130, in _execute_clauseelement
+    distilled_params,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1317, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1511, in _handle_dbapi_exception
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedColumn) column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+[SQL: INSERT INTO task_fail (task_id, dag_id, execution_date, start_date, end_date, duration) VALUES (%(task_id)s, %(dag_id)s, %(execution_date)s, %(start_date)s, %(end_date)s, %(duration)s) RETURNING task_fail.id]
+[parameters: {'task_id': 'create_dataset', 'dag_id': 'data_ingestion_local_gcs_GP15', 'execution_date': datetime.datetime(2023, 1, 26, 16, 31, 11, 435423, tzinfo=Timezone('UTC')), 'start_date': datetime.datetime(2023, 1, 26, 16, 31, 16, 261544, tzinfo=Timezone('UTC')), 'end_date': datetime.datetime(2023, 1, 26, 18, 23, 0, 633740, tzinfo=Timezone('UTC')), 'duration': 6704}]
+(Background on this error at: http://sqlalche.me/e/13/f405)
+[2023-01-26 18:23:00,658] {logging_mixin.py:109} INFO - [2023-01-26 18:23:00,658] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-26 18:23:00,667] {logging_mixin.py:109} INFO - [2023-01-26 18:23:00,667] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_local_gcs_GP15 to None
+[2023-01-26 18:23:00,673] {processor.py:171} INFO - Processing /opt/airflow/dags/data_ingestion_local_gcs_GP15.py took 2.114 seconds
+[2023-01-26 18:23:08,773] {processor.py:163} INFO - Started process (PID=36226) to work on /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:23:08,775] {processor.py:642} INFO - Processing file /opt/airflow/dags/data_ingestion_local_gcs_GP15.py for tasks to queue
+[2023-01-26 18:23:08,776] {logging_mixin.py:109} INFO - [2023-01-26 18:23:08,776] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:23:11,209] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_local_gcs_GP15']) retrieved from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:23:11,240] {processor.py:584} ERROR - Error executing TaskCallbackRequest callback for file: /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedColumn: column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 575, in execute_callbacks
+    self._execute_task_callbacks(dagbag, request)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 607, in _execute_task_callbacks
+    ti.handle_failure_with_callback(error=request.msg, test_mode=self.UNIT_TEST_MODE)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1765, in handle_failure_with_callback
+    self.handle_failure(error=error, test_mode=test_mode, force_fail=force_fail, session=session)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 67, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1755, in handle_failure
+    session.flush()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2540, in flush
+    self._flush(objects)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2682, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    with_traceback=exc_tb,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2642, in _flush
+    flush_context.execute()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 422, in execute
+    rec.execute(self)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 589, in execute
+    uow,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 245, in save_obj
+    insert,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 1136, in _emit_insert_statements
+    statement, params
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1130, in _execute_clauseelement
+    distilled_params,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1317, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1511, in _handle_dbapi_exception
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedColumn) column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+[SQL: INSERT INTO task_fail (task_id, dag_id, execution_date, start_date, end_date, duration) VALUES (%(task_id)s, %(dag_id)s, %(execution_date)s, %(start_date)s, %(end_date)s, %(duration)s) RETURNING task_fail.id]
+[parameters: {'task_id': 'create_dataset', 'dag_id': 'data_ingestion_local_gcs_GP15', 'execution_date': datetime.datetime(2023, 1, 26, 16, 31, 11, 435423, tzinfo=Timezone('UTC')), 'start_date': datetime.datetime(2023, 1, 26, 16, 31, 16, 261544, tzinfo=Timezone('UTC')), 'end_date': datetime.datetime(2023, 1, 26, 18, 23, 11, 226214, tzinfo=Timezone('UTC')), 'duration': 6714}]
+(Background on this error at: http://sqlalche.me/e/13/f405)
+[2023-01-26 18:23:11,256] {logging_mixin.py:109} INFO - [2023-01-26 18:23:11,256] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-26 18:23:11,268] {logging_mixin.py:109} INFO - [2023-01-26 18:23:11,268] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_local_gcs_GP15 to None
+[2023-01-26 18:23:11,275] {processor.py:171} INFO - Processing /opt/airflow/dags/data_ingestion_local_gcs_GP15.py took 2.508 seconds
+[2023-01-26 18:23:19,565] {processor.py:163} INFO - Started process (PID=36301) to work on /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:23:19,567] {processor.py:642} INFO - Processing file /opt/airflow/dags/data_ingestion_local_gcs_GP15.py for tasks to queue
+[2023-01-26 18:23:19,568] {logging_mixin.py:109} INFO - [2023-01-26 18:23:19,568] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:23:22,246] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_local_gcs_GP15']) retrieved from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:23:22,283] {processor.py:584} ERROR - Error executing TaskCallbackRequest callback for file: /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedColumn: column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 575, in execute_callbacks
+    self._execute_task_callbacks(dagbag, request)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 607, in _execute_task_callbacks
+    ti.handle_failure_with_callback(error=request.msg, test_mode=self.UNIT_TEST_MODE)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1765, in handle_failure_with_callback
+    self.handle_failure(error=error, test_mode=test_mode, force_fail=force_fail, session=session)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 67, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1755, in handle_failure
+    session.flush()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2540, in flush
+    self._flush(objects)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2682, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    with_traceback=exc_tb,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2642, in _flush
+    flush_context.execute()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 422, in execute
+    rec.execute(self)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 589, in execute
+    uow,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 245, in save_obj
+    insert,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 1136, in _emit_insert_statements
+    statement, params
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1130, in _execute_clauseelement
+    distilled_params,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1317, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1511, in _handle_dbapi_exception
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedColumn) column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+[SQL: INSERT INTO task_fail (task_id, dag_id, execution_date, start_date, end_date, duration) VALUES (%(task_id)s, %(dag_id)s, %(execution_date)s, %(start_date)s, %(end_date)s, %(duration)s) RETURNING task_fail.id]
+[parameters: {'task_id': 'create_dataset', 'dag_id': 'data_ingestion_local_gcs_GP15', 'execution_date': datetime.datetime(2023, 1, 26, 16, 31, 11, 435423, tzinfo=Timezone('UTC')), 'start_date': datetime.datetime(2023, 1, 26, 16, 31, 16, 261544, tzinfo=Timezone('UTC')), 'end_date': datetime.datetime(2023, 1, 26, 18, 23, 22, 262424, tzinfo=Timezone('UTC')), 'duration': 6726}]
+(Background on this error at: http://sqlalche.me/e/13/f405)
+[2023-01-26 18:23:22,301] {logging_mixin.py:109} INFO - [2023-01-26 18:23:22,301] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-26 18:23:22,321] {logging_mixin.py:109} INFO - [2023-01-26 18:23:22,321] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_local_gcs_GP15 to None
+[2023-01-26 18:23:22,337] {processor.py:171} INFO - Processing /opt/airflow/dags/data_ingestion_local_gcs_GP15.py took 2.778 seconds
+[2023-01-26 18:23:29,688] {processor.py:163} INFO - Started process (PID=36330) to work on /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:23:29,691] {processor.py:642} INFO - Processing file /opt/airflow/dags/data_ingestion_local_gcs_GP15.py for tasks to queue
+[2023-01-26 18:23:29,692] {logging_mixin.py:109} INFO - [2023-01-26 18:23:29,692] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:23:31,936] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_local_gcs_GP15']) retrieved from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:23:31,973] {processor.py:584} ERROR - Error executing TaskCallbackRequest callback for file: /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedColumn: column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 575, in execute_callbacks
+    self._execute_task_callbacks(dagbag, request)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 607, in _execute_task_callbacks
+    ti.handle_failure_with_callback(error=request.msg, test_mode=self.UNIT_TEST_MODE)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1765, in handle_failure_with_callback
+    self.handle_failure(error=error, test_mode=test_mode, force_fail=force_fail, session=session)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 67, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1755, in handle_failure
+    session.flush()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2540, in flush
+    self._flush(objects)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2682, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    with_traceback=exc_tb,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2642, in _flush
+    flush_context.execute()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 422, in execute
+    rec.execute(self)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 589, in execute
+    uow,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 245, in save_obj
+    insert,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 1136, in _emit_insert_statements
+    statement, params
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1130, in _execute_clauseelement
+    distilled_params,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1317, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1511, in _handle_dbapi_exception
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedColumn) column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+[SQL: INSERT INTO task_fail (task_id, dag_id, execution_date, start_date, end_date, duration) VALUES (%(task_id)s, %(dag_id)s, %(execution_date)s, %(start_date)s, %(end_date)s, %(duration)s) RETURNING task_fail.id]
+[parameters: {'task_id': 'create_dataset', 'dag_id': 'data_ingestion_local_gcs_GP15', 'execution_date': datetime.datetime(2023, 1, 26, 16, 31, 11, 435423, tzinfo=Timezone('UTC')), 'start_date': datetime.datetime(2023, 1, 26, 16, 31, 16, 261544, tzinfo=Timezone('UTC')), 'end_date': datetime.datetime(2023, 1, 26, 18, 23, 31, 957064, tzinfo=Timezone('UTC')), 'duration': 6735}]
+(Background on this error at: http://sqlalche.me/e/13/f405)
+[2023-01-26 18:23:31,993] {logging_mixin.py:109} INFO - [2023-01-26 18:23:31,992] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-26 18:23:32,009] {logging_mixin.py:109} INFO - [2023-01-26 18:23:32,009] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_local_gcs_GP15 to None
+[2023-01-26 18:23:32,021] {processor.py:171} INFO - Processing /opt/airflow/dags/data_ingestion_local_gcs_GP15.py took 2.337 seconds
+[2023-01-26 18:23:40,117] {processor.py:163} INFO - Started process (PID=36372) to work on /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:23:40,119] {processor.py:642} INFO - Processing file /opt/airflow/dags/data_ingestion_local_gcs_GP15.py for tasks to queue
+[2023-01-26 18:23:40,120] {logging_mixin.py:109} INFO - [2023-01-26 18:23:40,120] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:23:42,444] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_local_gcs_GP15']) retrieved from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:23:42,467] {processor.py:584} ERROR - Error executing TaskCallbackRequest callback for file: /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedColumn: column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 575, in execute_callbacks
+    self._execute_task_callbacks(dagbag, request)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 607, in _execute_task_callbacks
+    ti.handle_failure_with_callback(error=request.msg, test_mode=self.UNIT_TEST_MODE)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1765, in handle_failure_with_callback
+    self.handle_failure(error=error, test_mode=test_mode, force_fail=force_fail, session=session)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 67, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1755, in handle_failure
+    session.flush()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2540, in flush
+    self._flush(objects)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2682, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    with_traceback=exc_tb,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2642, in _flush
+    flush_context.execute()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 422, in execute
+    rec.execute(self)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 589, in execute
+    uow,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 245, in save_obj
+    insert,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 1136, in _emit_insert_statements
+    statement, params
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1130, in _execute_clauseelement
+    distilled_params,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1317, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1511, in _handle_dbapi_exception
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedColumn) column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+[SQL: INSERT INTO task_fail (task_id, dag_id, execution_date, start_date, end_date, duration) VALUES (%(task_id)s, %(dag_id)s, %(execution_date)s, %(start_date)s, %(end_date)s, %(duration)s) RETURNING task_fail.id]
+[parameters: {'task_id': 'create_dataset', 'dag_id': 'data_ingestion_local_gcs_GP15', 'execution_date': datetime.datetime(2023, 1, 26, 16, 31, 11, 435423, tzinfo=Timezone('UTC')), 'start_date': datetime.datetime(2023, 1, 26, 16, 31, 16, 261544, tzinfo=Timezone('UTC')), 'end_date': datetime.datetime(2023, 1, 26, 18, 23, 42, 458249, tzinfo=Timezone('UTC')), 'duration': 6746}]
+(Background on this error at: http://sqlalche.me/e/13/f405)
+[2023-01-26 18:23:42,479] {logging_mixin.py:109} INFO - [2023-01-26 18:23:42,479] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-26 18:23:42,489] {logging_mixin.py:109} INFO - [2023-01-26 18:23:42,489] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_local_gcs_GP15 to None
+[2023-01-26 18:23:42,495] {processor.py:171} INFO - Processing /opt/airflow/dags/data_ingestion_local_gcs_GP15.py took 2.382 seconds
+[2023-01-26 18:23:50,187] {processor.py:163} INFO - Started process (PID=36438) to work on /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:23:50,189] {processor.py:642} INFO - Processing file /opt/airflow/dags/data_ingestion_local_gcs_GP15.py for tasks to queue
+[2023-01-26 18:23:50,190] {logging_mixin.py:109} INFO - [2023-01-26 18:23:50,190] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:23:52,288] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_local_gcs_GP15']) retrieved from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:23:52,330] {processor.py:584} ERROR - Error executing TaskCallbackRequest callback for file: /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedColumn: column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 575, in execute_callbacks
+    self._execute_task_callbacks(dagbag, request)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 607, in _execute_task_callbacks
+    ti.handle_failure_with_callback(error=request.msg, test_mode=self.UNIT_TEST_MODE)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1765, in handle_failure_with_callback
+    self.handle_failure(error=error, test_mode=test_mode, force_fail=force_fail, session=session)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 67, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1755, in handle_failure
+    session.flush()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2540, in flush
+    self._flush(objects)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2682, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    with_traceback=exc_tb,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2642, in _flush
+    flush_context.execute()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 422, in execute
+    rec.execute(self)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 589, in execute
+    uow,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 245, in save_obj
+    insert,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 1136, in _emit_insert_statements
+    statement, params
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1130, in _execute_clauseelement
+    distilled_params,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1317, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1511, in _handle_dbapi_exception
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedColumn) column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+[SQL: INSERT INTO task_fail (task_id, dag_id, execution_date, start_date, end_date, duration) VALUES (%(task_id)s, %(dag_id)s, %(execution_date)s, %(start_date)s, %(end_date)s, %(duration)s) RETURNING task_fail.id]
+[parameters: {'task_id': 'create_dataset', 'dag_id': 'data_ingestion_local_gcs_GP15', 'execution_date': datetime.datetime(2023, 1, 26, 16, 31, 11, 435423, tzinfo=Timezone('UTC')), 'start_date': datetime.datetime(2023, 1, 26, 16, 31, 16, 261544, tzinfo=Timezone('UTC')), 'end_date': datetime.datetime(2023, 1, 26, 18, 23, 52, 319216, tzinfo=Timezone('UTC')), 'duration': 6756}]
+(Background on this error at: http://sqlalche.me/e/13/f405)
+[2023-01-26 18:23:52,352] {logging_mixin.py:109} INFO - [2023-01-26 18:23:52,352] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-26 18:23:52,343] {logging_mixin.py:109} INFO - [2023-01-26 18:23:52,343] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_local_gcs_GP15 to None
+[2023-01-26 18:23:52,350] {processor.py:171} INFO - Processing /opt/airflow/dags/data_ingestion_local_gcs_GP15.py took 2.187 seconds
+[2023-01-26 18:24:00,306] {processor.py:163} INFO - Started process (PID=36467) to work on /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:24:00,308] {processor.py:642} INFO - Processing file /opt/airflow/dags/data_ingestion_local_gcs_GP15.py for tasks to queue
+[2023-01-26 18:24:00,309] {logging_mixin.py:109} INFO - [2023-01-26 18:24:00,309] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:24:02,309] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_local_gcs_GP15']) retrieved from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:24:02,341] {processor.py:584} ERROR - Error executing TaskCallbackRequest callback for file: /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedColumn: column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 575, in execute_callbacks
+    self._execute_task_callbacks(dagbag, request)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 607, in _execute_task_callbacks
+    ti.handle_failure_with_callback(error=request.msg, test_mode=self.UNIT_TEST_MODE)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1765, in handle_failure_with_callback
+    self.handle_failure(error=error, test_mode=test_mode, force_fail=force_fail, session=session)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 67, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1755, in handle_failure
+    session.flush()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2540, in flush
+    self._flush(objects)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2682, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    with_traceback=exc_tb,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2642, in _flush
+    flush_context.execute()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 422, in execute
+    rec.execute(self)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 589, in execute
+    uow,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 245, in save_obj
+    insert,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 1136, in _emit_insert_statements
+    statement, params
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1130, in _execute_clauseelement
+    distilled_params,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1317, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1511, in _handle_dbapi_exception
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedColumn) column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+[SQL: INSERT INTO task_fail (task_id, dag_id, execution_date, start_date, end_date, duration) VALUES (%(task_id)s, %(dag_id)s, %(execution_date)s, %(start_date)s, %(end_date)s, %(duration)s) RETURNING task_fail.id]
+[parameters: {'task_id': 'create_dataset', 'dag_id': 'data_ingestion_local_gcs_GP15', 'execution_date': datetime.datetime(2023, 1, 26, 16, 31, 11, 435423, tzinfo=Timezone('UTC')), 'start_date': datetime.datetime(2023, 1, 26, 16, 31, 16, 261544, tzinfo=Timezone('UTC')), 'end_date': datetime.datetime(2023, 1, 26, 18, 24, 2, 326803, tzinfo=Timezone('UTC')), 'duration': 6766}]
+(Background on this error at: http://sqlalche.me/e/13/f405)
+[2023-01-26 18:24:02,354] {logging_mixin.py:109} INFO - [2023-01-26 18:24:02,354] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-26 18:24:02,365] {logging_mixin.py:109} INFO - [2023-01-26 18:24:02,364] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_local_gcs_GP15 to None
+[2023-01-26 18:24:02,371] {processor.py:171} INFO - Processing /opt/airflow/dags/data_ingestion_local_gcs_GP15.py took 2.069 seconds
+[2023-01-26 18:24:10,451] {processor.py:163} INFO - Started process (PID=36509) to work on /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:24:10,453] {processor.py:642} INFO - Processing file /opt/airflow/dags/data_ingestion_local_gcs_GP15.py for tasks to queue
+[2023-01-26 18:24:10,454] {logging_mixin.py:109} INFO - [2023-01-26 18:24:10,454] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:24:13,140] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_local_gcs_GP15']) retrieved from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:24:13,175] {processor.py:584} ERROR - Error executing TaskCallbackRequest callback for file: /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedColumn: column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 575, in execute_callbacks
+    self._execute_task_callbacks(dagbag, request)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 607, in _execute_task_callbacks
+    ti.handle_failure_with_callback(error=request.msg, test_mode=self.UNIT_TEST_MODE)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1765, in handle_failure_with_callback
+    self.handle_failure(error=error, test_mode=test_mode, force_fail=force_fail, session=session)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 67, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1755, in handle_failure
+    session.flush()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2540, in flush
+    self._flush(objects)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2682, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    with_traceback=exc_tb,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2642, in _flush
+    flush_context.execute()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 422, in execute
+    rec.execute(self)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 589, in execute
+    uow,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 245, in save_obj
+    insert,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 1136, in _emit_insert_statements
+    statement, params
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1130, in _execute_clauseelement
+    distilled_params,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1317, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1511, in _handle_dbapi_exception
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedColumn) column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+[SQL: INSERT INTO task_fail (task_id, dag_id, execution_date, start_date, end_date, duration) VALUES (%(task_id)s, %(dag_id)s, %(execution_date)s, %(start_date)s, %(end_date)s, %(duration)s) RETURNING task_fail.id]
+[parameters: {'task_id': 'create_dataset', 'dag_id': 'data_ingestion_local_gcs_GP15', 'execution_date': datetime.datetime(2023, 1, 26, 16, 31, 11, 435423, tzinfo=Timezone('UTC')), 'start_date': datetime.datetime(2023, 1, 26, 16, 31, 16, 261544, tzinfo=Timezone('UTC')), 'end_date': datetime.datetime(2023, 1, 26, 18, 24, 13, 163103, tzinfo=Timezone('UTC')), 'duration': 6776}]
+(Background on this error at: http://sqlalche.me/e/13/f405)
+[2023-01-26 18:24:13,190] {logging_mixin.py:109} INFO - [2023-01-26 18:24:13,190] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-26 18:24:13,203] {logging_mixin.py:109} INFO - [2023-01-26 18:24:13,203] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_local_gcs_GP15 to None
+[2023-01-26 18:24:13,211] {processor.py:171} INFO - Processing /opt/airflow/dags/data_ingestion_local_gcs_GP15.py took 2.764 seconds
+[2023-01-26 18:24:20,897] {processor.py:163} INFO - Started process (PID=36582) to work on /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:24:20,901] {processor.py:642} INFO - Processing file /opt/airflow/dags/data_ingestion_local_gcs_GP15.py for tasks to queue
+[2023-01-26 18:24:20,905] {logging_mixin.py:109} INFO - [2023-01-26 18:24:20,905] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:24:23,369] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_local_gcs_GP15']) retrieved from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:24:23,399] {processor.py:584} ERROR - Error executing TaskCallbackRequest callback for file: /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedColumn: column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 575, in execute_callbacks
+    self._execute_task_callbacks(dagbag, request)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 607, in _execute_task_callbacks
+    ti.handle_failure_with_callback(error=request.msg, test_mode=self.UNIT_TEST_MODE)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1765, in handle_failure_with_callback
+    self.handle_failure(error=error, test_mode=test_mode, force_fail=force_fail, session=session)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 67, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1755, in handle_failure
+    session.flush()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2540, in flush
+    self._flush(objects)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2682, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    with_traceback=exc_tb,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 2642, in _flush
+    flush_context.execute()
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 422, in execute
+    rec.execute(self)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/unitofwork.py", line 589, in execute
+    uow,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 245, in save_obj
+    insert,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/orm/persistence.py", line 1136, in _emit_insert_statements
+    statement, params
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1130, in _execute_clauseelement
+    distilled_params,
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1317, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1511, in _handle_dbapi_exception
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/airflow/.local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedColumn) column "execution_date" of relation "task_fail" does not exist
+LINE 1: INSERT INTO task_fail (task_id, dag_id, execution_date, star...
+                                                ^
+
+[SQL: INSERT INTO task_fail (task_id, dag_id, execution_date, start_date, end_date, duration) VALUES (%(task_id)s, %(dag_id)s, %(execution_date)s, %(start_date)s, %(end_date)s, %(duration)s) RETURNING task_fail.id]
+[parameters: {'task_id': 'create_dataset', 'dag_id': 'data_ingestion_local_gcs_GP15', 'execution_date': datetime.datetime(2023, 1, 26, 16, 31, 11, 435423, tzinfo=Timezone('UTC')), 'start_date': datetime.datetime(2023, 1, 26, 16, 31, 16, 261544, tzinfo=Timezone('UTC')), 'end_date': datetime.datetime(2023, 1, 26, 18, 24, 23, 385999, tzinfo=Timezone('UTC')), 'duration': 6787}]
+(Background on this error at: http://sqlalche.me/e/13/f405)
+[2023-01-26 18:24:23,414] {logging_mixin.py:109} INFO - [2023-01-26 18:24:23,414] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-26 18:24:23,427] {logging_mixin.py:109} INFO - [2023-01-26 18:24:23,427] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_local_gcs_GP15 to None
+[2023-01-26 18:24:23,435] {processor.py:171} INFO - Processing /opt/airflow/dags/data_ingestion_local_gcs_GP15.py took 2.570 seconds
+[2023-01-26 18:24:53,724] {processor.py:163} INFO - Started process (PID=36688) to work on /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:24:53,727] {processor.py:642} INFO - Processing file /opt/airflow/dags/data_ingestion_local_gcs_GP15.py for tasks to queue
+[2023-01-26 18:24:53,728] {logging_mixin.py:109} INFO - [2023-01-26 18:24:53,728] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:24:56,024] {processor.py:654} INFO - DAG(s) dict_keys(['data_ingestion_local_gcs_GP15']) retrieved from /opt/airflow/dags/data_ingestion_local_gcs_GP15.py
+[2023-01-26 18:24:56,033] {logging_mixin.py:109} INFO - [2023-01-26 18:24:56,033] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-01-26 18:24:56,046] {logging_mixin.py:109} INFO - [2023-01-26 18:24:56,046] {dag.py:2935} INFO - Setting next_dagrun for data_ingestion_local_gcs_GP15 to None
+[2023-01-26 18:24:56,054] {processor.py:171} INFO - Processing /opt/airflow/dags/data_ingestion_local_gcs_GP15.py took 2.335 seconds
